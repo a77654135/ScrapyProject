@@ -91,7 +91,7 @@ AUTOTHROTTLE_DEBUG = False
 
 # Enable and configure HTTP caching (disabled by default)
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
-HTTPCACHE_ENABLED = False
+HTTPCACHE_ENABLED = True
 HTTPCACHE_EXPIRATION_SECS = 24 * 60 * 60
 HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = []
@@ -114,5 +114,5 @@ DUPEFILTER_CLASS = 'ScrapyProject.core.dupefilter.RedisDupeFilter'
 SCHEDULER_QUEUE = 'ScrapyProject.core.queue.RedisQueue'
 
 dt = datetime.datetime.now()
-LOG_FILE = 'logs/logging-{}_{}_{}_{}_{}_{}.txt'.format(dt.year,dt.month,dt.day,dt.hour,dt.minute,dt.second)
-LOG_LEVEL = 'WARNING'
+LOG_FILE = '../logs/logging-{}_{}_{}_{}_{}_{}.txt'.format(dt.year,dt.month,dt.day,dt.hour,dt.minute,dt.second)
+LOG_LEVEL = 'DEBUG'

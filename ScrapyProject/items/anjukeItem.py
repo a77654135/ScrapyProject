@@ -24,7 +24,6 @@ class AnjukeItem(scrapy.Item):
     onsale = scrapy.Field()                     #售卖状态
     wuyetp = scrapy.Field()                     #地产类型
     tags = scrapy.Field()                       #标签
-    activities = scrapy.Field()                 #活动
     price = scrapy.Field()                      #售价
     phone = scrapy.Field()                      #联系电话
     img_url = scrapy.Field()                    #图片地址
