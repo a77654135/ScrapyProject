@@ -28,3 +28,4 @@ class AnjukeItem(scrapy.Item):
     price = scrapy.Field()                      #售价
     phone = scrapy.Field()                      #联系电话
     img_url = scrapy.Field()                    #图片地址
+    img_local_url = scrapy.Field()              #图片本地地址
