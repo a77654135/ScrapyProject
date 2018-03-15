@@ -12,6 +12,12 @@ class AnjukeSpider(scrapy.Spider):
     allowed_domains = ['anjuke.com']
     start_urls = ['https://wh.fang.anjuke.com/loupan/all/']
 
+    custom_settings = {
+        'DOWNLOADER_MIDDLEWARES': {
+            'ScrapyProject.middlewares.driverMiddleware.DriverMiddleware': 100,
+        }
+    }
+
     def parse(self, response):
         """
         name = scrapy.Field()                       #名字
@@ -30,15 +36,10 @@ class AnjukeSpider(scrapy.Spider):
         :return:
         """
 
-        item_list = response.xpath("//div[@class='key-list']/div[@class='item-mod']")
+        mod_list = response.xpath("//div[@class='item-mod']")
         print "1111111111111111"
-        print item_list
-        for item in item_list:
-            print "222222222222"
-            l = ItemLoader(item = AnjukeItem(), selector=item, response=response)
-            l.add_xpath("name","div[@class='infos']//span[@class='items-name']/text()")
-
-            i = l.load_item()
-            print i.name
+        print mod_list
+        for mod in mod_list:
+            item = AnjukeItem()
 
 
