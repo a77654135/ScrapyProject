@@ -42,7 +42,7 @@ class DriverMiddleware(object):
 
     def process_request(self, request, spider):
         self.driver.get(request.url)
-        self.driver.save_screenshot(os.path.abspath("../images/2.png"))
+        # self.driver.save_screenshot(os.path.abspath("../images/2.png"))
         body = self.driver.page_source
         return HtmlResponse(self.driver.current_url, body=body, encoding='utf-8', request=request)
 

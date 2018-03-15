@@ -9,6 +9,8 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
+import datetime
+
 BOT_NAME = 'scrapybot'
 
 SPIDER_MODULES = ['ScrapyProject.spiders']
@@ -110,3 +112,7 @@ REDIS_QUEUE_KEY = "queue"
 SCHEDULER = 'ScrapyProject.core.scheduler.Scheduler'
 DUPEFILTER_CLASS = 'ScrapyProject.core.dupefilter.RedisDupeFilter'
 SCHEDULER_QUEUE = 'ScrapyProject.core.queue.RedisQueue'
+
+dt = datetime.datetime.now()
+LOG_FILE = 'logs/logging-{}_{}_{}_{}_{}_{}.txt'.format(dt.year,dt.month,dt.day,dt.hour,dt.minute,dt.second)
+LOG_LEVEL = 'WARNING'
