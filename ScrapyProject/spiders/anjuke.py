@@ -40,7 +40,6 @@ class AnjukeSpider(scrapy.Spider):
         :return:
         """
 
-        # mod_list = response.xpath(r"//div[@class='key-list']/div[@class='item-mod']")
         mod_list = response.xpath(r"//div[@class='key-list']/div[@class='item-mod ']")
 
         for mod in mod_list:
@@ -55,16 +54,13 @@ class AnjukeSpider(scrapy.Spider):
             price = mod.xpath("a[@class='favor-pos']/p[@class='price']/span/text()").extract_first()  # 售价
             phone = mod.xpath("a[@class='favor-pos']/p[@class='tel']/text()").extract_first()  # 联系电话
             img_url = mod.xpath("a[@class='pic']/img/@src").extract_first()  # 图片地址
-            # img_local_url = os.path.join(base_dir,*["images",self.name,hashlib.md5().update(img_url).hexdigest()])
 
             item["name"] = name
             item["detail_link"] = detail_link
             item["position"] = position
-            # item["home_type"] = home_type
             item["home_area"] = home_area
             item["onsale"] = onsale
             item["wuyetp"] = wuyetp
-            # item["tags"] = tags
             item["price"] = price
             item["phone"] = phone
             item["img_url"] = img_url
