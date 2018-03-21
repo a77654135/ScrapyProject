@@ -46,10 +46,7 @@ class MovieHeavenPipeline():
             #         newDesc.append(desc)
             # item["desc"] = newDesc
 
-            if item["name"]:
-                self.client[spider.name].update({"name":item["name"]},dict(item),True)
-            else:
-                self.client[spider.name].update({"title": item["title"]}, dict(item), True)
+            self.client[spider.name].insert(dict(item))
         except:
             pass
         finally:
