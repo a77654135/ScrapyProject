@@ -54,7 +54,7 @@ class MovieHeavenSpider(scrapy.Spider):
         item["grade"] = response.xpath("//div[@class='co_content8']//strong[@class='rank']/text()").extract_first()
         item["date"] = response.xpath("//div[@class='co_content8']//span[@class='updatetime']/text()").re("[0-9-]+")[0]
         # item["desc"] = response.xpath("//div[@id='Zoom']/p/text()").extract()
-        item["downloadLink"] = response.xpath("//td[contains(@style,'WORD-WRAP')]/a/text()").extract()
+        item["downloadLink"] = response.xpath("//td[starts-with(@style,'WORD-WRAP')]//a/text()").extract()
         item["type"] = response.xpath("//div[@class='co_content8']//div[@class='position']/span[2]/a/text()").extract()
         item["category"] = "movie"
         item["detailLink"] = response.url
@@ -77,7 +77,7 @@ class MovieHeavenSpider(scrapy.Spider):
         item["title"] = response.xpath("//div[@class='title_all']/h1/text()").extract_first()
         item["date"] = response.xpath("//div[@class='co_content8']//span[@class='updatetime']/text()").re("[0-9-]+")[0]
         # item["desc"] = response.xpath("//div[@id='Zoom']/p/text()").extract()
-        item["downloadLink"] = response.xpath("//td[contains(@style,'WORD-WRAP')]//a/text()").extract()
+        item["downloadLink"] = response.xpath("//td[starts-with(@style,'WORD-WRAP')]//a/text()").extract()
         item["type"] = response.xpath("//div[@class='bd3l']/a[last()]/text()").extract_first()
         item["category"] = "series"
         item["detailLink"] = response.url
