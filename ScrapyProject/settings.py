@@ -28,10 +28,6 @@ ROBOTSTXT_OBEY = False
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
-# Configure a delay for requests for the same website (default: 0)
-# See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
-# See also autothrottle settings and docs
-DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
 CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # CONCURRENT_REQUESTS_PER_IP = 16
@@ -67,14 +63,7 @@ DOWNLOADER_MIDDLEWARES = {
 #    'scrapy.extensions.telnet.TelnetConsole': None,
 #}
 
-# Configure item pipelines
-# See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'ScrapyProject.pipelines.mongoPipeline.MongoPipeline': 300,
-   'ScrapyProject.pipelines.csvPipeline.CSVPipeline': 400,
-   # 'ScrapyProject.pipelines.jsonPipeline.JSONPipeline': 500,
-   # 'ScrapyProject.pipelines.txtPipeline.TxtPipeline': 600,
-}
+
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -91,28 +80,45 @@ AUTOTHROTTLE_DEBUG = False
 
 # Enable and configure HTTP caching (disabled by default)
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
-HTTPCACHE_ENABLED = True
+HTTPCACHE_ENABLED = False
 HTTPCACHE_EXPIRATION_SECS = 24 * 60 * 60
 HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = []
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 
-MONGODB_HOST = '127.0.0.1'
-MONGODB_PORT = 27017
-MONGODB_DATABASE = 'scrapyData'
+TEST = False
 
-REDIS_HOST = '127.0.0.1'
-REDIS_PORT = 6379
-REDIS_DB = 6
+if not TEST:
+    # Configure a delay for requests for the same website (default: 0)
+    # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
+    # See also autothrottle settings and docs
+    DOWNLOAD_DELAY = 3
 
-REDIS_DUPEFILTER_KEY = "dupefilter"
-REDIS_QUEUE_KEY = "queue"
+    # Configure item pipelines
+    # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
+    ITEM_PIPELINES = {
+        'ScrapyProject.pipelines.mongoPipeline.MongoPipeline': 300,
+        'ScrapyProject.pipelines.csvPipeline.CSVPipeline': 400,
+        # 'ScrapyProject.pipelines.jsonPipeline.JSONPipeline': 500,
+        # 'ScrapyProject.pipelines.txtPipeline.TxtPipeline': 600,
+    }
 
-SCHEDULER = 'ScrapyProject.core.scheduler.Scheduler'
-DUPEFILTER_CLASS = 'ScrapyProject.core.dupefilter.RedisDupeFilter'
-SCHEDULER_QUEUE = 'ScrapyProject.core.queue.RedisStack'
+    MONGODB_HOST = '127.0.0.1'
+    MONGODB_PORT = 27017
+    MONGODB_DATABASE = 'scrapyData'
 
-# dt = datetime.datetime.now()
-# LOG_FILE = '../logs/logging-{}_{}_{}_{}_{}_{}.txt'.format(dt.year,dt.month,dt.day,dt.hour,dt.minute,dt.second)
-# LOG_LEVEL = 'DEBUG'
+    REDIS_HOST = '127.0.0.1'
+    REDIS_PORT = 6379
+    REDIS_DB = 6
+
+    REDIS_DUPEFILTER_KEY = "dupefilter"
+    REDIS_QUEUE_KEY = "queue"
+
+    SCHEDULER = 'ScrapyProject.core.scheduler.Scheduler'
+    DUPEFILTER_CLASS = 'ScrapyProject.core.dupefilter.RedisDupeFilter'
+    SCHEDULER_QUEUE = 'ScrapyProject.core.queue.RedisStack'
+
+    # dt = datetime.datetime.now()
+    # LOG_FILE = '../logs/logging-{}_{}_{}_{}_{}_{}.txt'.format(dt.year,dt.month,dt.day,dt.hour,dt.minute,dt.second)
+    # LOG_LEVEL = 'DEBUG'

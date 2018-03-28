@@ -1,0 +1,6 @@
+*.pyc
+/.scrapy
+/data
+/.idea
+/images
+/ScrapyProject/ghostdriver.log

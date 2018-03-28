@@ -13,6 +13,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 import os
+import time
 from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from scrapy.http import Response,HtmlResponse
@@ -42,6 +43,7 @@ class DriverMiddleware(object):
 
     def process_request(self, request, spider):
         self.driver.get(request.url)
+        time.sleep(3)
         # self.driver.save_screenshot(os.path.abspath("../images/2.png"))
         body = self.driver.page_source
         return HtmlResponse(self.driver.current_url, body=body, encoding='utf-8', request=request)
