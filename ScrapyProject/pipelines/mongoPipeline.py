@@ -32,7 +32,6 @@ class MongoPipeline(object):
     def process_item(self, item, spider):
         try:
             self.client[spider.name].insert(dict(item))
-            self.client[spider.name].update()
         except Exception,e:
             print e.message
         finally:
