@@ -26,28 +26,27 @@ class BtbtdySpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        yield Request(url=r"http://www.btbtdy.com/screen/1-----time-1.html",callback=self.parse_list, meta={"category": "movie"})
-        yield Request(url=r"http://www.btbtdy.com/screen/30-----time-1.html",callback=self.parse_list, meta={"category": "series"})
-        yield Request(url=r"http://www.btbtdy.com/screen/34-----time-1.html",callback=self.parse_list, meta={"category": "cartoon"})
-        yield Request(url=r"http://www.btbtdy.com/screen/29-----time-1.html",callback=self.parse_list, meta={"category": "languang"})
-        yield Request(url=r"http://www.btbtdy.com/screen/28-----time-1.html",callback=self.parse_list, meta={"category": "movie3D"})
-        yield Request(url=r"http://www.btbtdy.com/screen/38-----time-1.html",callback=self.parse_list, meta={"category": "movieVR"})
+        yield Request(url=r"http://www.btbtdy.com/screen/1-----time-1.html",callback=self.parse_list, meta={"category": u"电影"})
+        yield Request(url=r"http://www.btbtdy.com/screen/30-----time-1.html",callback=self.parse_list, meta={"category": u"电视剧"})
+        yield Request(url=r"http://www.btbtdy.com/screen/34-----time-1.html",callback=self.parse_list, meta={"category": u"动漫"})
+        yield Request(url=r"http://www.btbtdy.com/screen/29-----time-1.html",callback=self.parse_list, meta={"category": u"蓝光"})
+        yield Request(url=r"http://www.btbtdy.com/screen/28-----time-1.html",callback=self.parse_list, meta={"category": u"3D电影"})
+        yield Request(url=r"http://www.btbtdy.com/screen/38-----time-1.html",callback=self.parse_list, meta={"category": u"VR电影"})
         # yield Request(url=r"http://www.btbtdy.com/btdy/dy12587.html",callback=self.parse_item, meta={"category": "movieVR"})
 
     def parse_list(self, response):
-
-        self.parse(response)
-
         meta_total = response.meta
         last_href = response.xpath("//div[@class='pages']/a[last()]/@href").extract_first()
         if last_href:
             idx = re.findall(r".*time-(\d+).html",last_href)
             if idx and len(idx):
                 idx = int(idx[0])
-                for i in range(2,idx+1,1):
+                for i in range(1,idx+1,1):
                     href = last_href.replace("time-{}.html".format(idx),"time-{}.html".format(i))
-
-                    yield Request(url="{}{}".format(BtbtdySpider.link_url,href),callback=self.parse,meta=meta_total.copy())
+                    df = False
+                    if i == 1:
+                        df = True
+                    yield Request(url="{}{}".format(BtbtdySpider.link_url,href),callback=self.parse,meta=meta_total.copy(),dont_filter=df)
 
 
 
