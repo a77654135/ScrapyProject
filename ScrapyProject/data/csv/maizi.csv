@@ -1,0 +1,566 @@
+"category","desc","detailUrl","img","status","students","title","vip"
+"ios应用开发","从想法到创意，从创意到执行，从思路到细节。想要把你的设计能力发挥到实际工作中，你需要的不仅仅是软件和铅笔，一套优秀的工作方法同样重要。
+本课程带你从完整的项目中学习真正的职业化设计师工作流程和方法。","http://www.maiziedu.com/course/701/","http://www.maiziedu.com/uploads/course/2017/04/APPsheji.png","end","22731","MUI项目实训-社交APP的设计","normal"
+"ios应用开发","swift2.0-iOS玩转UIKit","http://www.maiziedu.com/course/710/","http://www.maiziedu.com/uploads/course/2016/04/swift2.jpg","end","42241","swift2.0-iOS玩转UIKit","normal"
+"ios应用开发","清楚一款新闻APP诞生前后，作为一个设计师所起到的作用以及在这个APP诞生的过程中设计师需要掌握的一些设计技能和产品思维方式。","http://www.maiziedu.com/course/750/","http://www.maiziedu.com/uploads/course/2016/04/app.png","end","12365","新闻类APP项目设计","vip"
+"ios应用开发","通过实战iMessage应用来深入学习与掌握UITableView控件的使用技巧，课程中将深入浅出的介绍基于表格视图应用程序界面的数据模型设计、cell搭建与设置、布局的自适应、表格视图编辑与分区、调用系统通讯录，相册等知识。 ","http://www.maiziedu.com/course/754/","http://www.maiziedu.com/uploads/course/2016/04/iMessages.png","end","16452","仿iMessages聊天界面开发 ","vip"
+"ios应用开发","ios图片浏览器","http://www.maiziedu.com/course/767/","http://www.maiziedu.com/uploads/course/2016/04/2.jpg","end","5046","ios图片浏览器","vip"
+"ios应用开发","开发一个应用很容易，开发一款便于维护又便于扩展的应用很难。这门课程以模仿网易新闻客户端首页为引子，带你进入到规范化的，工程化的应用开发流程中，在教会你基本的功能及页面的实现的同时也教会你如何写出便于维护的代码。","http://www.maiziedu.com/course/768/","http://www.maiziedu.com/uploads/course/2016/04/UIKitlx.png","end","17683","UIKit练习-仿网易新闻首页","vip"
+"ios应用开发","本节课程将会教给大家UITableView的使用，如何定制Cell，如何计算Cell的高度，如何做图文混排以及如何在项目中灵活地使用Swift2.0进行编程。","http://www.maiziedu.com/course/770/","http://www.maiziedu.com/uploads/course/2016/04/UIKitlx.jpg","end","10601","UIKit练习课程-仿微博界面","vip"
+"ios应用开发","Swift是Apple公司2014年推出的开发语言，之后不断更新迭代并开源，越来越多的开发者对swift充满信心并热切学习，相信在不久的未来，Swift将成为ios开发的标准语言。当前swift已经更新到2.2版本，本次课程将带领大家掌握并熟练运用swift2.2语法特性，深入理解并掌握swift中函数编程，oop编程和pop编程。","http://www.maiziedu.com/course/772/","http://www.maiziedu.com/uploads/course/2016/04/Swift-2.2jc.jpg","end","24533","iOS开发语言 swift 2.2基础","normal"
+"ios应用开发","当今信息化时代，信息就是利润，数据就是企业的命根子，尤其是进入到大数据时代后，爆炸性的数据无时无刻不在影响着人们的生活。如何存储数据，保护数据从而利用“大数据”带来的巨大价值成为每个企业必须的课题。本课程将向大家介绍计算机存储的相关知识，只有把数据存储的得当，才能更好地利用和分析数据。
+本课程将对计算机存储相关技术：RAID, LVM, DAS, NAS, SAN, FC, Iscsi, 数据保护和备份， 容灾做详细介绍和实例分析。","http://www.maiziedu.com/course/850/","http://www.maiziedu.com/uploads/course/2016/07/jisuanji.png","end","5456","计算机存储","vip"
+"ios应用开发","  在移动互联网快速发展的今天，掌握一门移动开发技能显得格外重要.iOS开发入门适用于零基础的和想从事移动开发的开发人员，在课程结束之后，能熟悉整个iOS开发流程，掌握开发中常用的技能，对iOS开发有一个全局的认识。","http://www.maiziedu.com/course/791/","http://www.maiziedu.com/uploads/course/2016/05/ioskfrm.jpg","end","13318","ios开发入门","normal"
+"android应用开发","Android智能手机的迅猛发展，巨大的市场份额激发很多传统IT公司转向APP应用开发，未来十年Android APP开发工程师仍然是炙手可热的职位。本课程将通过实践教会你Andriod应用开发最常用的元素-Activity，快速入门Android应用开发。","http://www.maiziedu.com/course/691/","http://www.maiziedu.com/uploads/course/2016/04/Activity.jpg","end","44691","安卓应用开发-Activity","normal"
+"android应用开发","本系列课程将通过一个HelloWorld实例教会大家如何快速新建自己的Android工程，
+介绍Android Studio工程目录结构，并分析工程目录中各部件的作用
+通过Logcat打印日志，方便开发者观察程序是否如我所愿的运行，debug模式添加断点调试应用程序，常用的adb命令，DDMS工具分析应用程序的性能.","http://www.maiziedu.com/course/741/","http://www.maiziedu.com/uploads/course/2016/04/Android_XX3zL0o.png","end","12352","Android Studio 开发起手式-HelloWorld二三事","normal"
+"android应用开发","详细介绍Android的存储机制实现。使用小项目的形式呈现知识点的运用。","http://www.maiziedu.com/course/744/","http://www.maiziedu.com/uploads/course/2016/06/Android-sjjc.png","end","22376","Android数据存储基础","normal"
+"android应用开发","Android网络编程","http://www.maiziedu.com/course/752/","http://www.maiziedu.com/uploads/course/2016/07/1_4G7urd5.png","end","28342","Android网络编程基础","normal"
+"android应用开发","熟练掌握Android基础控件、五大布局的用法，熟练掌握容器控件ListView、ViewPager、RecyclerView的用法，学会定制自己的应用主题和样式，熟练掌握View的测量布局绘制流程，并学会自定义View，打造自己的个性化View。","http://www.maiziedu.com/course/810/","http://www.maiziedu.com/uploads/course/2016/06/jcuikj.png","end","22549","Android基础UI控件","normal"
+"android应用开发","详细介绍Android的存储机制实现。使用小项目的形式呈现知识点的运用。","http://www.maiziedu.com/course/815/","http://www.maiziedu.com/uploads/course/2016/06/Android-sjsz.png","end","5928","Android数据存储实战","vip"
+"android应用开发","Android网络编程","http://www.maiziedu.com/course/816/","http://www.maiziedu.com/uploads/course/2016/06/Android-wlbcsz.png","end","8623","Android网络编程实战","vip"
+"android应用开发","本套Android broadcast教程，主要是为大家介绍android广播接收器注册、自定义、生命周期、安全性、防火墙等相关知识，方便大家轻松掌握android语言中的这一重要知识点。","http://www.maiziedu.com/course/854/","http://www.maiziedu.com/uploads/course/2016/07/Android-broadcast.png","end","6922","Android broadcast","normal"
+"web前端开发","Java  web前端开发常用技术之一，可快速构建极具客户体验度的应用。本课程由有着多年实战开发的资深web前端开发工程师朱朝兵老师为大家录制，从html5+css3基础知识，到实战案例分析，实际操作，均有详细讲解。
+","http://www.maiziedu.com/course/352/","http://www.maiziedu.com/uploads/course/2015/07/4.1Web前端开发之HTML5CSS3快速入门.jpg","end","73206","Web前端开发之HTML5+CSS3快速入门","vip"
+"web前端开发","java  web开发中，javascript是web前端设计最主要的技术之一，本节将由麦子学院资深前端开发工程师就javascript的相关知识进行全面深入的介绍和实操演练，让你感受前端设计的美妙。
+","http://www.maiziedu.com/course/353/","http://www.maiziedu.com/uploads/course/2016/06/javascript_PbpyegX.jpg","end","34199","Javascript初步","normal"
+"web前端开发","JQuery作为java  web前端开发主要技术之一，是java开发中必须掌握的基础知识。本章将由硅谷资深JQuery工程师全面系统为您讲解其相关知识体系并通过案例形象展示其使用方式方法。","http://www.maiziedu.com/course/354/","http://www.maiziedu.com/uploads/course/2015/07/1.3Web前端开发之jQuery入门课程_Qb7jYcv.jpg","end","16844","Web前端开发之jQuery入门课程","vip"
+"web前端开发","HTML+CSS是web前端开发基础课程，本章将由麦子学院资深web前端开发工程师为你全面讲解HTML和css的基本属性和用法，带你进入web前端开发的世界。","http://www.maiziedu.com/course/421/","http://www.maiziedu.com/uploads/course/2017/04/HTMLCSS.png","end","382440","HTML+CSS基础入门","vip"
+"android应用开发","service是android系统中的一种组件，本套android service课程主要是为大家介绍service生命周期、活动通信、远程服务、前台服务与综合应用相关知识，方便大家快速掌握android这一组件。","http://www.maiziedu.com/course/855/","http://www.maiziedu.com/uploads/course/2016/07/Android-service.png","end","7489","Android service","normal"
+"android应用开发","Volley是Android平台上的网络通信库，能使网络通信更快，更简单，更健壮。xUtils 最初源于Afinal框架，进行了大量重构，使得xUtils支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响...","http://www.maiziedu.com/course/875/","http://www.maiziedu.com/uploads/course/2016/08/3.png","end","5626","Android第三方框架使用-Volley和xUtils的使用","vip"
+"android应用开发","学习Android自定义控件的三种方式，详细案例分析。看完本课程，能够自己编写自定义控件","http://www.maiziedu.com/course/895/","http://www.maiziedu.com/uploads/course/2016/09/Android.png","end","8823","Android自定义控件","vip"
+"android应用开发","本课程将学习Android编程中的多线程和异步任务相关操作，帮助学员理解、掌握android多线程、android异步任务相关理论知识的同时，也能将这些理论运用于具体实践。","http://www.maiziedu.com/course/918/","http://www.maiziedu.com/uploads/course/2016/09/111.jpg","on","7078","Android多线程和异步任务","normal"
+"web前端开发","HTML+CSS是web前端开发基础课程，本章将由麦子学院资深web前端开发工程师为你全面讲解HTML和css的基本属性和用法，带你进入web前端开发的世界。","http://www.maiziedu.com/course/425/","http://www.maiziedu.com/uploads/course/2015/07/1.1HTMLCSS.jpg","end","209459","Web前端开发之HTML+CSS基础入门","vip"
+"web前端开发","WEB系统基础","http://www.maiziedu.com/course/427/","http://www.maiziedu.com/uploads/course/2015/07/2.1web系统基础.jpg","end","23318","WEB系统基础","vip"
+"web前端开发","这是一门Web前端开发项目课程，手把手教你如何进行企业门户网站开发，你将系统的学到DIV+CSS页面布局，图片广告，图片列表制作，菜单制作，及二级菜单实现原理，轮换广告JS特效，无缝图片列表等的实现。","http://www.maiziedu.com/course/489/","http://www.maiziedu.com/uploads/course/2015/07/2.2手把手带你_做企业门户前端.jpg","end","29684","高级工程师手把手带你做企业门户前端","vip"
+"web前端开发","less从入门到精通 ","http://www.maiziedu.com/course/497/","http://www.maiziedu.com/uploads/course/2017/04/Less.png","end","58436","less从入门到精通 ","vip"
+"web前端开发","讲述Web前端MVC框架——Backbone的基本使用方法。目标是让学员理解前端MVC思想，掌握Backbone的使用方法，掌握单页面Web应用的开发方法。","http://www.maiziedu.com/course/507/","http://www.maiziedu.com/uploads/course/2015/07/2.4Backbone入门基础-.jpg","end","25420","Backbone入门基础","vip"
+"android应用开发","美图秀秀以丰富有趣的照片处理方式，同时紧抓“人人都有爱美之心”的大众心理，通过高品质的像素转换，在短短几年内吸引了千万级庞大用户量。针对此应用，我们在体验一张张美艳的照片制作过程中，让我们对android中的自定义控件，绘画算法，自定义相机，图片像素转换和android内存的优化技术深入了解掌握，真正让android开发水平更上一层楼","http://www.maiziedu.com/course/941/","http://www.maiziedu.com/uploads/course/2016/10/2_brafZBw.png","end","7279","Android仿美图秀秀实战 （下）","vip"
+"android应用开发","语言只是载体，思想才是核心。学会了语言就像一个人有了强健的体魄，没有设计思想永远无法做出优秀的软件。本课程就是让你从0开始了解什么是软件设计的基本思想和常见的模式。","http://www.maiziedu.com/course/867/","http://www.maiziedu.com/uploads/course/2016/08/sjms.jpg","end","16100","设计模式","vip"
+"web前端开发","希望能够通过本套课程的学习，使之前没有接触过移动端开发的同学，能够熟练进行移动端开发，并能拥有差不多2年移动端开发经验，提高同学的前端架构能力。","http://www.maiziedu.com/course/513/","http://www.maiziedu.com/uploads/course/2015/08/移动前段实训课程.jpg","on","49092","移动前端开发项目","vip"
+"web前端开发","学习这个课程，使你能够胜任前端网页工程师岗位，能够熟练掌握网页布局模式以及常用的CSS样式；能根据需求分析，设计JavaScript特效；根据效果图使用DIV+CSS布局出相应的网页。","http://www.maiziedu.com/course/519/","http://www.maiziedu.com/uploads/course/2015/08/麦子商城.jpg","end","29877","麦子商城项目制作","vip"
+"web前端开发","这是一门CSS相关的进阶教程，目标是让你把知识从“会用”变成“用好”，让你从“会写代码”过渡到“会写高质量代码”。
+","http://www.maiziedu.com/course/533/","http://www.maiziedu.com/uploads/course/2015/08/用SAAAA.jpg","end","24764","利用Sass编写高质量CSS","vip"
+"web前端开发","企业网站后台制作实战","http://www.maiziedu.com/course/535/","http://www.maiziedu.com/uploads/course/2015/08/网站后台.jpg","end","23326","企业网站后台制作实战","vip"
+"web前端开发","这门课程会帮助你学会正确的使用KnockOut框架，可以熟练运用KnockOut框架开发实际项目，提高项目的开发效率，使项目更易维护和扩展。","http://www.maiziedu.com/course/536/","http://www.maiziedu.com/uploads/course/2015/08/1.7KnockOut从入门到精通.jpg","end","14625","KnockOut从入门到精通","vip"
+"web前端开发","bootstrap综合实战","http://www.maiziedu.com/course/543/","http://www.maiziedu.com/uploads/course/2015/09/bootstrap综合实战.jpg","end","70783","bootstrap综合实战","vip"
+"机器学习","算法：时间序列AIRMA模型
+","http://www.maiziedu.com/course/1001/","http://www.maiziedu.com/uploads/course/2017/11/sefcwegf3e_ouuggSk.jpg","on","2503","算法：时间序列AIRMA模型","vip"
+"机器学习","案例：时间序列预测任务
+","http://www.maiziedu.com/course/1002/","http://www.maiziedu.com/uploads/course/2017/11/sefcwegf3e_JlLeWwK.jpg","on","2482","案例：时间序列预测任务","vip"
+"机器学习","算法：Xgboost提升算法
+","http://www.maiziedu.com/course/1003/","http://www.maiziedu.com/uploads/course/2017/11/sefcwegf3e_uzooXB1.jpg","on","2967","算法：Xgboost提升算法","vip"
+"机器学习","非线性支持向量机","http://www.maiziedu.com/course/967/","http://www.maiziedu.com/uploads/course/2017/11/sefcwegf3e_OcGW5UG.jpg","on","2457","非线性支持向量机","vip"
+"机器学习","TensorFlow，以下简称TF，是Google去年发布的机器学习平台，发布以后由于其速度快，扩展性好，推广速度还是蛮快的。江湖上流传着Google的大战略，Android占领了移动端，TF占领神经网络提供AI服务，未来的趋势恰好是语音图像以及AI的时代，而Google IO上发布的Gbot似乎正是这一交叉领域的初步尝试。","http://www.maiziedu.com/course/964/","http://www.maiziedu.com/uploads/course/2017/05/tensorflow.png","on","6783","Tensorflow框架","vip"
+"机器学习","pandas是一个流行的开源Python项目，它的名称取panel data（面板数据，一个计量经济学的术语）和Python data analysis（Python数据分析）的意思。本课程将详细为大家介绍pandas在数据分析中的相关用法。","http://www.maiziedu.com/course/955/","http://www.maiziedu.com/uploads/course/2017/05/pandas.png","on","4822","数据分析处理库Pandas","vip"
+"机器学习","seaborn是斯坦福大学出的一个非常好用的可视化包。为了控制matplotlib图表的外观，seaborn模块自带许多定制的主题和高级的接口。本套课程和大家介绍的主要是Seaborn可视化库绘图方法的演示，基于模板展示可视化效果。
+","http://www.maiziedu.com/course/993/","http://www.maiziedu.com/uploads/course/2017/08/Skshk.png","on","2759","Seaborn可视化库","vip"
+"机器学习","KMEANS聚类
+","http://www.maiziedu.com/course/999/","http://www.maiziedu.com/uploads/course/2017/11/sefcwegf3e_ejm76Uq.jpg","on","3863","KMEANS聚类","vip"
+"ui & 平面","基础VI设计（上）首先带你学习认识VI，了解VI的作用以及它在一个企业里所扮演的角色，通过实际操作，从基本版面设计开始，按章学习，最后能够独立完成一整套VI的设计。","http://www.maiziedu.com/course/846/","http://www.maiziedu.com/uploads/course/2016/07/1_2JhBl6Z.png","end","3850","基础VI设计（上）","vip"
+"ui & 平面","  色彩构成（Interaction of Color），即色彩的相互作用，是从人对色彩的知觉和心理效果出发，用科学分析的方法，把复杂的色彩现象还原为基本要素，利用色彩在空间、量与质上的可变幻性，按照一定的规律去组合各构成之间的相互关系，再创造出新的色彩效果的过程。色彩构成是艺术设计的基础理论之一，它与平面构成及立体构成有着不可分割的关系，色彩不能脱离形体、空间、位置、面积、肌理等而独立存在。","http://www.maiziedu.com/course/835/","http://www.maiziedu.com/uploads/course/2016/07/1_unX4k5h.png","end","9129","色彩构成","normal"
+"ui & 平面","平面构成是视觉元素在二次元的平面上，按照美的视觉效果，力学的原理，进行编排和组合，它是以理性和逻辑推理来创造形象、研究形象与形象之间的排列的方法。是理性与感性相结合的产物。研究在二维平面内创造理想形态，或是将既有的形态（具象或抽象形态）按照一定原理进行分解，组合，从而构成多种理想的视觉形式的造型设计基础课程。","http://www.maiziedu.com/course/861/","http://www.maiziedu.com/uploads/course/2016/08/pmgc.jpg","end","12199","平面构成","normal"
+"ui & 平面","立体构成是一门研究形态创造与造型设计的课程，所涉及的范畴也是十分广泛，如工业造型设计、建筑设计、雕塑设计、室内设计等。立体构成是现代造型与艺术设计领域的基础学科，也是步入艺术行业必修的一门课程。","http://www.maiziedu.com/course/862/","http://www.maiziedu.com/uploads/course/2016/08/ltgc.png","end","7130","立体构成","normal"
+"ui & 平面",".掌握After Effects在影视合成方面的二维合成、三维合成、抠像等
+.影视合成中重要的多种追踪技巧。
+.利用PS软件完成效果图的设计 讲解专业设计理念的一些知识
+.帮助提升After Effects 综合运用能力的艺术化效果模拟、粒子制作、仿真效果等综合案例","http://www.maiziedu.com/course/838/","http://www.maiziedu.com/uploads/course/2016/07/AE.png","end","5203","影视后期（AE)","normal"
+"ui & 平面","1、了解书籍装帧设计的分类及其中的异同点；
+2、了解画册印刷制作的常见工艺；
+3、掌握实践一本企业画册从0到印刷成品的全部设计和制作流程。","http://www.maiziedu.com/course/853/","http://www.maiziedu.com/uploads/course/2016/07/shujizhuangzhen.png","end","3503","书籍装帧设计项目","normal"
+"ui & 平面","插画艺术概述、现代插画形式、现代插画工具分类、插画的艺术风格、插画常用技法（构图、造型、色彩、细节塑造、光影）、创意培训方式、图形创意表现方法、手绘准备的工具介绍、实例操作。","http://www.maiziedu.com/course/865/","http://www.maiziedu.com/uploads/course/2016/08/sych.jpg","end","4709","商业插画","normal"
+"ui & 平面","•  利用AI软件完成矢量绘制部分的工作
+•  利用PS软件完成效果图的设计
+• 了解并熟练掌握包装设计的制作以及创意流程","http://www.maiziedu.com/course/866/","http://www.maiziedu.com/uploads/course/2016/08/bzsj.jpg","end","3739","包装设计","normal"
+"ui & 平面","本套课程主要是帮助大家了解海报的历史 、海报的表现形式和作用 、海报的设计风格和排版规则 、商业海报的实战应用等相关广告海报设计知识。","http://www.maiziedu.com/course/915/","http://www.maiziedu.com/uploads/course/2016/09/123_mPFN8x8.png","end","3883","广告海报设计","vip"
+"ui & 平面","本套课程主要学习CorelDRAW软件的基本工具并配以相关案例演示，让学员在短时间内极速掌握CorelDRAW在平面设计以及相关领域的运用。","http://www.maiziedu.com/course/890/","http://www.maiziedu.com/uploads/course/2016/09/coreldraw-X8.png","end","2398","coreldraw X8极速上手","normal"
+"产品&运营","品牌－你的产品及服务“人格特征”，策划－搭建骨架，内容－你的血肉，推广－血管输送，拉粉－循环系统，转－转化用户。","http://www.maiziedu.com/course/891/","http://www.maiziedu.com/uploads/course/2017/04/liuzijue.png","end","13438","运营六字诀-从品牌到转化","normal"
+"产品&运营"," 认识新媒体，能够基本掌握新媒体工作内容和技能，同时能够自主进行内容创作、粉丝获取、视频音频制作、制定新媒体运营策略。学习了本课程后，可以对新媒体工作内容和方式有比较清晰的了解，并在工作中学以致用。","http://www.maiziedu.com/course/885/","http://www.maiziedu.com/uploads/course/2017/04/yunyingjichu.png","on","32428","新媒体运营基础","vip"
+"产品&运营","在社会化营销时代，微信公众号已成为企业、机构和个人营销推广的标配，本课程为您详细解读微信运营，让新媒体不再神秘！","http://www.maiziedu.com/course/869/","http://www.maiziedu.com/uploads/course/2017/04/weixin.png","end","27478","从零开始学微信运营","normal"
+"产品&运营","这是一门微博运营和微博营销的实战课程，课程会从微博运营理念、工具、内容组织、粉丝运营、数据分析、广告投放等多方面通过案例剖析、实战讲解告诉微博运营人员如何实现营销目标。","http://www.maiziedu.com/course/821/","http://www.maiziedu.com/uploads/course/2016/07/1.jpg","end","6585","微博运营实战指南","vip"
+"产品&运营","还在为文案选题、取标题烦恼吗？麦子学院CEO、金牌讲师Sundy，从文案分类、文案创作7步骤、文案创意15法，到文案创作PDCA循环，10节课，全面吃透文案，让你轻松写出上万+阅读量文案，不再为文案扣脑袋。","http://www.maiziedu.com/course/842/","http://www.maiziedu.com/uploads/course/2017/06/111111111.png","end","13633","文案训练手册-写作技巧大全","normal"
+"产品&运营","活动策划的核心及目的，文案撰写技巧，项目推荐表及推广计划，线上线下各种活动的策划及执行细节，新媒体活动设计，活动氛围设计。活动的话术设计、数据分析等技术。学完后可胜任活动策划与执行类工作。","http://www.maiziedu.com/course/819/","http://www.maiziedu.com/uploads/course/2017/04/huodong.png","end","12709","活动运营","vip"
+"产品&运营","通过理论和实操，讲解用户运营的基本概念和运营之道，通过学习，能够用有效的方法获取到产品或者平台的第一批种子用户，建立清晰的用户画像模型，自主用数据分析工具，提高用户的留存率、活跃率，降低用户的流失率。","http://www.maiziedu.com/course/903/","http://www.maiziedu.com/uploads/course/2016/09/yhyy.png","end","9650","用户运营－粉丝池的建立及运营","normal"
+"产品&运营","学习本课程可以让你对于渠道运营推广工作、APP推广主流渠道推广逻辑、APP推广主流方式、提高产品活跃的常用方式、渠道推广从方案策划到落地执行有具体了解。","http://www.maiziedu.com/course/889/","http://www.maiziedu.com/uploads/course/2016/09/1_e8EBDuk.png","end","8320","APP推广及运营实操","vip"
+"产品&运营","了解产品、定位、需求分析及处理灯产品基本知识；了解产品运营协作流程；了解运营人员主导网站改版应该如何做；了解如何在产品层面上设计用户的自运营机制。","http://www.maiziedu.com/course/873/","http://www.maiziedu.com/uploads/course/2017/04/zhidaosheji.png","on","15011","运营指导产品设计","vip"
+"产品&运营","本门课程主要学习：如何合理地设计并制作几大电商页面（店铺首页，宝贝详情页，落地页，活动专题页）。
+本课程的学习目标：通过本门课程的学习，全面提高学员在营销设计方面的思路和技巧，轻松实现用户点击高、转化高、留存高等瓶颈，本门课程将通过PS实例给大家进行详细讲解。","http://www.maiziedu.com/course/860/","http://www.maiziedu.com/uploads/course/2016/07/1_oXrzHvk.png","end","5842","销售页、落地页设计和制作","vip"
+"产品&运营","通过课程学习，让直通车小白翻身变大牛，让企业把每一分钱都花在刀刃上！","http://www.maiziedu.com/course/882/","http://www.maiziedu.com/uploads/course/2016/08/1_gZIyLWl.png","end","2180","淘宝直通车","vip"
+"python web开发","Node.js是一门轻量、高效基于chrome v8引擎的javascript语言。它是当前最流行的后台web开发语言之一，Node.js 的包管理器 npm，是全球最大的开源库生态系统。通过本课程你将学到。什么事http协议。Node.js 模块的概念，以及常用系统模块的使用。和web服务器的原理。","http://www.maiziedu.com/course/694/","http://www.maiziedu.com/uploads/course/2016/04/Nodejs-web.jpg","end","17380","node.js开发web应用基础","vip"
+"python web开发","Nodejs有诸多的亮点：事件驱动、异步编程、hold住高并发...
+那么这么优秀的开发方式如何去打造一款高性能的论坛？如何解决编程中的回调地狱？Express、Redis和mongodb在中间有发挥着什么作用？这节课将一一为大家展现。","http://www.maiziedu.com/course/707/","http://www.maiziedu.com/uploads/course/2016/04/NodeJS-cnodejs.jpg","end","17368","NodeJS项目实战—仿cnodejs社区论坛","vip"
+"python web开发","主要介绍在python中，如何使用matplotlib进行数据的可视化分析。通过该课程，学员可以掌握基本的数据可视化分析手段，比如各种简单统计图绘制、调整图形的外观、绘制多图等技巧，并能独立完成综合性的实战项目。","http://www.maiziedu.com/course/709/","http://www.maiziedu.com/uploads/course/2017/04/Python-matplotlib.png","end","47360","Python数据可视化分析 - matplotlib","normal"
+"python web开发","Python :Pexpect库应用","http://www.maiziedu.com/course/726/","http://www.maiziedu.com/uploads/course/2016/04/Python--Pexpect.jpg","end","12852","Python :Pexpect库应用","vip"
+"python web开发","主要是介绍一下我们工作中在需要可视化统计数据的时候，我们需要用到的两款比较主流的图表插件，两款插件提供了丰富的实例和详细的API说明，基本上满足了我们的可视化需求。","http://www.maiziedu.com/course/734/","http://www.maiziedu.com/uploads/course/2016/04/Echartshighcharts.png","end","14669","Echarts和highcharts的使用","normal"
+"python web开发","gevent是一个著名的开发框架。通过本课程可以学习到gevent的各个组件的原理、使用方法及高级技巧，并在实践中掌握gevent的应用场景，最后通过部分源码分析彻底掌握多开发编程的核心技巧。","http://www.maiziedu.com/course/747/","http://www.maiziedu.com/uploads/course/2016/04/gevent.png","end","20060","Gevent","vip"
+"python web开发","Pandas是python的一个数据分析包，最初被作为金融数据分析工具而开发出来，因此对时间序列分析提供了很好的支持。目前 Pandas 已经成为 Python 语言里最强大的数据分析工具包。
+	你是个价值投资者，你想分析所有股票的平均年化收益率，从而给你选股提供决策数据？你是GTD践行者，你每年年底都要统计一下这一年来你的时间都去了哪儿？Pandas 将是这些任务的理想工具。","http://www.maiziedu.com/course/751/","http://www.maiziedu.com/uploads/course/2016/04/pandas-jc.png","end","26528","pandas教程","vip"
+"python web开发","Git是一个分布式的版本控制系统， 起初用作Linux内核代码的管理,而现在在其他项目中也取得了很大的成功.。Github作为git库最大的托管平台， 拥有百万的开发者,，海量的开源代码,，是大家学习和工作很好的平台,，所以不管学习什么语言,，掌握Git相关的知识是开发者必备的技能。","http://www.maiziedu.com/course/782/","http://www.maiziedu.com/uploads/course/2016/05/git_hub.png","on","30160","Git 与 GitHub","vip"
+"python web开发","  Fabric 是 python 世界最常用的任务工具，正如C++ 的 Make、Java  的 Ant 、Ruby 上 Rake 还有在 JS 世界中响当当的 Gulp和Grunt 的江湖地位一样。而 Fabric 与其它语言平台上的任务和构建工具又有着很大的区别，除了从python而来的优雅与简洁还有着更强悍的另一面，一个远程主机的脚本化管理工具。
+  本课程将由浅入深，通过我在应用Fabric在多个项目中的实际案例让各位同学能更好理解与掌握这一门可以让你的电脑、开发环境、部署等进程“聪明”起来的自动化。","http://www.maiziedu.com/course/793/","http://www.maiziedu.com/uploads/course/2016/05/Fabric_g3JB3tC.jpg","on","10559","Fabric教程","vip"
+"python web开发","  本课程为项目课，是对pyqt开发windows gui程序的一个综合运用。在本课程中，我将带领大家一步一步实现一个非常实用的听书软件。本课程内容涉及pyqt的基本控件使用，百度语音合成的使用方法，软件试用和注册的实现方法，学习一些音频处理相关的python扩展包。本课程适合学完pyqt初级课程的同学，对TTS技术感兴趣的同学。本课程最终学习成果是一款PC端听书软件，支持从word，txt和pdf文件读取文本自动转化为语音并保存为mp3格式音频。该软件可帮助视觉障碍人群获取外界信息，包括新闻，小说，博客等；亦可用于正常人群，实现各种小说，文章，教程转换为mp3文件。","http://www.maiziedu.com/course/801/","http://www.maiziedu.com/uploads/course/2016/05/xmts.png","end","12104","小麦听书","normal"
+"python web开发","  nodejs之消息服务器开发，旨在为大家提供多样的化即时通讯解析方案，在单聊、群聊、文件传输、离线消息、系统广播等方面作了详尽的讲述，通过此课程的综合学习，能满足绝大多数企业在实时通信方面的需求，同时，课程中所采用的技术均是跨平台的，无论web、ios、android、应用程序exe都完美兼容，让消息处处必达。","http://www.maiziedu.com/course/803/","http://www.maiziedu.com/uploads/course/2016/07/1_KndwkWw.png","end","10639","Nodejs之消息服务器开发","vip"
+"python web开发","php高阶内容","http://www.maiziedu.com/course/808/","http://www.maiziedu.com/uploads/course/2016/05/sjk.png","end","15492","mysql操作数据库与实战","vip"
+"web前端开发","  现如今前端领域遍地开发，想要构建自己的工程化工具体系还真是不容易，本课程会详细介绍我在工程实践中积累出来的工具箱，从前端项目的初始化到开发，再到测试、构建、部署和监控等环节的事半功倍的工具，认真学完，相信你的个人生产力、代码质量都会上1个台阶，能力提升了，升职和加薪还会远么？","http://www.maiziedu.com/course/749/","http://www.maiziedu.com/uploads/course/2016/04/qdgch_A40YjLh.png","end","20521","前端工程化","vip"
+"web前端开发","在诸如Jquery，AngularJS,BootStrap等各种前端框架或库充斥市场的情况下，由Facebook的优秀程序员开发出来的React一经问世，就有人直呼这是革命性创新，性能出众，代码逻辑却很简单易懂。
+本套视频教程将从实践的角度带你学习ReactJS。在使用中理解ReactJS、利用ReactJS更快速的实现你的组件化开发。","http://www.maiziedu.com/course/783/","http://www.maiziedu.com/uploads/course/2016/05/React.jpg","end","41877","ReactJS从入门到实战","vip"
+"web前端开发","Jquery  php前端开发最重要的基础语言之一，学习本课程，麦子学院资深php开发工程师将带你全面熟悉、掌握Jquery相关应用，创造不一样的php世界。","http://www.maiziedu.com/course/789/","http://www.maiziedu.com/uploads/course/2017/04/Jquery.png","end","46460","jquery基础应用","vip"
+"web前端开发","  移动端已经是如今开发的大势所趋，大部分互联网公司开发时都本着移动优先的策略来安排开发资源，本课程会介绍移动端开发领域非常锋利的一把军刀：Zepto，从工具函数、事件处理、DOM操作、数据操作等方面全方位的介绍，然后介绍 App.js：一款基于 Zepto.js 的 Mobile Web App 开发框架，并且用实例的方式来带领大家理解框架的核心概念、掌握开发要领。","http://www.maiziedu.com/course/802/","http://www.maiziedu.com/uploads/course/2016/05/Zepto.png","end","18367","锋利的Zepto","vip"
+"web前端开发","微信无疑是中国最大的移动社交平台，如何站在巨人的肩上让你的应用触及海量的用户？本门课程会以微信公众平台开发为主线，以自动问答系统为试验场，带领大家熟悉基础条件的准备、调试工具、重要接口的功能和调用方法，以及产品层面该如何与你的应用结合，期间使用到的技术包括 JS、CSS、Node、Express、WeChat SDK，使用到的工具包括：NPM、PostMan。","http://www.maiziedu.com/course/836/","http://www.maiziedu.com/uploads/course/2016/07/1_4gkvHIK.png","end","19307","微信公众号JS全栈开发实战","vip"
+"web前端开发","1、学习H5游戏开发的资源加载方式；
+2、学习H5游戏开发中的声音控制；
+3、学习H5游戏开发中的键盘控制；
+4、学习H5游戏开发中的场景暂停与恢复；
+5、利用面向对象的方式实现多个类似精灵；
+6、了解一个完整的H5游戏开发过程；","http://www.maiziedu.com/course/878/","http://www.maiziedu.com/uploads/course/2016/08/1_9WmlnmY.png","end","12137","H5实现俄罗斯方块游戏","normal"
+"web前端开发","Vue.js 是用于构建交互式的 Web 界面的库。它提供了 MVVM 数据绑定和一个可组合的组件系统，具有简单、灵活的 API。学习本门课程可以让你更好的理解Vue.js，课程中的一些实例能让你更快速的学习。","http://www.maiziedu.com/course/916/","http://www.maiziedu.com/uploads/course/2016/09/1_0quZW7u.png","end","116804","Vue.js详解","vip"
+"web前端开发","本课程是一门关于JSON的入门级教程。JSON在2001年被提出，是一种用于数据交换的文本格式，相比XML具有很多显著的优点。通过本课程的学习，你能够了解JSON的格式规则、在网页前端的简单应用、以及常见的扩展格式。","http://www.maiziedu.com/course/552/","http://www.maiziedu.com/uploads/course/2015/09/JSON入门.jpg","on","26533","JSON入门","vip"
+"web前端开发","这是一门从入门到精通由浅入深步步深入的理论+项目实战的课程，让你短时间内学习WEB的最基础知识和底层知识及如何去搭建响应式WEB项目的方法。项目案例的制作会让你的知识进一步巩固和升华，在掌握一些HTML,CSS,JS浏览器基础和当前流行的响应式设计技术的同时，为你技术的提升添砖加瓦。","http://www.maiziedu.com/course/555/","http://www.maiziedu.com/uploads/course/2015/09/4.9响应式web设计及项目实践.jpg","end","11715","响应式web设计及项目实践","vip"
+"web前端开发","AngularJS是Google开发的纯客户端JavaScript技术的WEB框架,用于扩展、增强HTML功能,它专为构建强大的WEB应用而设计。本课程循序渐进全面介绍AngularJS在Web App中的使用，适合前端工程师，Web开发工程师，Web移动开发人员。","http://www.maiziedu.com/course/567/","http://www.maiziedu.com/uploads/course/2015/09/使用Angular-js开发Web-App.jpg","end","33870","使用Angularjs开发Web App","vip"
+"web前端开发","如果你从事的是大型项目的开发，有复杂的模块依赖，那么你一定需要Webpack；如果你想要简单设置，容易上手的工具，那么你也一定需要它；如果你想要更快的打包效率和开发效率，它可以让你不刷新页面就能看到代码修改的结果。Webpack凭借自身的特点与优势，在Facebook开发团队的全力推广下，已经成为了当前最好的前端打包工具之一。","http://www.maiziedu.com/course/570/","http://www.maiziedu.com/uploads/course/2015/09/3.10Webpack实战.jpg","end","21556","Webpack实战","vip"
+"web前端开发","这是一门利用Mockjs+Nodejs开发框架快速实现基于业务的数据模拟项目的课程。课程实践项目来源于真实的商业案例，通过课程的学习，让大家对Nodejs、数据模拟等前沿技术有更深入的了解，并在实际项目中发挥其重要的作用，让大家能够掌握Express快速搭建跨平台的MVC开发框架，快速构建自己的数据模拟系统。同时学会利用互联网和开源社区迅速扩大自己的技术视野，在课程中教会大家如何分析并解决问题。","http://www.maiziedu.com/course/579/","http://www.maiziedu.com/uploads/course/2015/10/Mock.jsExpress实现京东商城数据模拟.jpg","end","19655","Mock.js+Express实现京东商城数据模拟","vip"
+"web前端开发","web前端开发之----javascript 进阶","http://www.maiziedu.com/course/580/","http://www.maiziedu.com/uploads/course/2015/10/javascript进阶.jpg","end","52258","Javascript 进阶","normal"
+"web前端开发","javascript 进阶","http://www.maiziedu.com/course/582/","http://www.maiziedu.com/uploads/course/2015/10/javascript进阶_wBh05Gh.jpg","end","29181","Javascript 进阶","normal"
+"web前端开发","在这个js大行其道,各种前端js框架如jQuery ,Ext,prototype等广泛运用在各个Web项目中的世界中,js面向对象的特性被深度挖掘的年代中,没有对js面向对象的深入了解,你都不好意思说你会js。
+本套视频教程将从面向对象的角度带你学习js 。在使用中理解js的面向对象的一面,并能掌握js中的三大重点与难点:原型,this,闭包,具备读懂jQuery框架源码的基础,并能以面向对象的形式编写js。","http://www.maiziedu.com/course/583/","http://www.maiziedu.com/uploads/course/2015/10/javascript面向对象编程.jpg","end","87521","JavaScript面向对象编程","vip"
+"web前端开发","ES6中包含了许多新的语言特性，它们将使JS变得更加强大，更富表现力。接下来，我们将一一深入了解它们。","http://www.maiziedu.com/course/585/","http://www.maiziedu.com/uploads/course/2015/10/4.4ECMAScript6编程艺术.jpg","on","26194"," ECMAScript6编程艺术","vip"
+"web前端开发","HTML5提供了Canvas元素，允许脚本语言动态渲染位图像。Canvas由一个可绘制地区HTML代码中的属性定义决定高度和宽度。JavaScript代码可以访问该地区，通过一套完整的绘图功能类似于其他通用二维的API，从而生成动态的图形。本课程详细讲解了HTML5绘图的基本方法，包括文字、路径、图像和渐变等内容，最后以一个单机版的五子棋项目来证明HTML5绘图功能的强大。","http://www.maiziedu.com/course/596/","http://www.maiziedu.com/uploads/course/2017/04/HTML5.png","end","36304","HTML5绘图","vip"
+"web前端开发","Web前端开发规范，可以帮助同学们，了解web前端开发规范的意义，掌握前端开发中的开发规范，掌握web前端开发中的实用技巧。面对企业团队开发，可以很快融入团队合作中，高效率的完成团队给予的任务。","http://www.maiziedu.com/course/621/","http://www.maiziedu.com/uploads/course/2015/11/web前端开发规范.jpg","end","68141","Web前端开发规范","vip"
+"web前端开发","这是一门利用JavaScript进行前后端开发的进阶教程。教程中用到了较多比较常用和实用的前端技术、框架，工具等。
+目标是让大家了解如何利用JavaScript进行前后端开发，前后端如何交互，以及如何实用前后端构建来提高开发效率。","http://www.maiziedu.com/course/648/","http://www.maiziedu.com/uploads/course/2016/04/GulpAngularExpress.jpg","end","31758","Gulp+Angular+Express实现简易任务管理系统","vip"
+"web前端开发","学了很久的前端但是只会从页面找1个元素在上面绑1个事件？如果是这样，那你还有很大的提升空间，本课程由浅入深讲解网络和浏览器的基本工作原理，更为你介绍常见的前
+端开发工具、调试工具、性能诊断工具，教你如何解决定位常见的跨浏览器、跨平台兼容问题，还会详细介绍前端性能优化的典型手段。如果这些你都学会了，下次出去面试肯定获得不错的评价。","http://www.maiziedu.com/course/693/","http://www.maiziedu.com/uploads/course/2016/04/qdjjzn.jpg","end","19995","前端进阶指南 ","vip"
+"web前端开发","ES6的标准通过，整个Web开发群都应该尝试新的东西了，那么我们就试试 家 直期待的Web Component，使 Google公司提供的polymer, 切都变得清晰简单了。Let’s do it。","http://www.maiziedu.com/course/724/","http://www.maiziedu.com/uploads/course/2016/04/polymer-rmjc.jpg","end","13550","polymer入门教程 ","vip"
+"web前端开发","学会正确的使用AngularJs框架，可以熟练运用AngularJs框架开发实际项目。","http://www.maiziedu.com/course/736/","http://www.maiziedu.com/uploads/course/2017/04/AngularJS.png","end","41181","AngularJS从入门到实战","vip"
+"Windows phone开发","Windows phone 8.1地理位置。","http://www.maiziedu.com/course/220/","http://www.maiziedu.com/uploads/course/2015/07/5.8Windows-phone-8.1地理位置.jpg","end","3273","Windows phone 8.1地理位置","normal"
+"Windows phone开发","Windows phone 8.1应用间通讯。","http://www.maiziedu.com/course/221/","http://www.maiziedu.com/uploads/course/2015/07/5.9Windows-phone-8.1应用间通讯.jpg","end","3186","Windows phone 8.1应用间通讯","normal"
+"Windows phone开发","Windows phone 8.1网络编程。","http://www.maiziedu.com/course/222/","http://www.maiziedu.com/uploads/course/2015/07/5.10Windows-phone-8.1网络编程.jpg","end","8119","Windows phone 8.1网络编程","normal"
+"Windows phone开发","Windows phone 8.1后台任务。","http://www.maiziedu.com/course/223/","http://www.maiziedu.com/uploads/course/2015/07/5.11Windows-phone-8.1后台任务.jpg","end","3336","Windows phone 8.1后台任务","normal"
+"Windows phone开发","Windows phone 8.1MVVM模式和数据绑定。","http://www.maiziedu.com/course/224/","http://www.maiziedu.com/uploads/course/2015/07/5.12Windows-phone-8.1MVVM模式和数据绑定.jpg","end","6901","Windows phone 8.1MVVM模式和数据绑定","normal"
+"Windows phone开发","Windows phone 8.1并行任务编程与原生代码编程。","http://www.maiziedu.com/course/225/","http://www.maiziedu.com/uploads/course/2015/07/5.13Windows-phone-8.1并行任务编程与原生代码编程.jpg","end","3856","Windows phone 8.1并行任务编程与原生代码编程","normal"
+"Windows phone开发","Windows phone 8.1项目实战之Bing在线壁纸。","http://www.maiziedu.com/course/226/","http://www.maiziedu.com/uploads/course/2015/07/5.14Windows-phone-8.1项目实战之Bing在线壁纸.jpg","end","3760","Windows phone 8.1项目实战之Bing在线壁纸","normal"
+"Windows phone开发","Windows phone 8.1项目实战之记账本。","http://www.maiziedu.com/course/227/","http://www.maiziedu.com/uploads/course/2015/07/5.15Windows-phone-8.1项目实战之记账本.jpg","end","5108","Windows phone 8.1项目实战之记账本","normal"
+"cocos2d开发","cocos2d－x多线程","http://www.maiziedu.com/course/602/","http://www.maiziedu.com/uploads/course/2015/11/多线程.jpg","on","8989","cocos2d－x多线程","normal"
+"cocos2d开发","本课程以《黄金矿工》为案例，讲解了Cocos Studio制作ui,物理引擎检测碰撞，动作、动画，播放音频，切换场景，打包apk等内容。通过学习本课程，学者可以完整制作一款休闲游戏。","http://www.maiziedu.com/course/603/","http://www.maiziedu.com/uploads/course/2015/11/黄金矿工.jpg","end","40584","黄金矿工","normal"
+"cocos2d开发","cocos2d－x概述","http://www.maiziedu.com/course/605/","http://www.maiziedu.com/uploads/course/2015/11/概述_SPuhGRF.jpg","end","17993","cocos2d－x概述","normal"
+"cocos2d开发","cocos2d－x场景","http://www.maiziedu.com/course/606/","http://www.maiziedu.com/uploads/course/2015/11/场景_ye5ZuU3.jpg","end","26083","cocos2d－x场景","normal"
+"cocos2d开发","cocos2d－x的多分辨率适配","http://www.maiziedu.com/course/607/","http://www.maiziedu.com/uploads/course/2015/11/cocos2d-多分辨率适配.jpg","end","8998","cocos2d－x多分辨率适配","normal"
+"cocos2d开发","拖动事件","http://www.maiziedu.com/course/609/","http://www.maiziedu.com/uploads/course/2015/11/拖动事件_1j32OBl.jpg","end","8850","拖动事件","normal"
+"cocos2d开发","cocos2d－x中的动态内容与音效","http://www.maiziedu.com/course/611/","http://www.maiziedu.com/uploads/course/2015/11/Cocos2d-X动态内容与音效.jpg","end","15002","cocos2d－x动态内容与音效","normal"
+"cocos2d开发","cocoStudio实战","http://www.maiziedu.com/course/612/","http://www.maiziedu.com/uploads/course/2015/11/cocostudio实战.jpg","end","18444","cocoStudio实战","normal"
+"cocos2d开发","cocoStudio进阶","http://www.maiziedu.com/course/613/","http://www.maiziedu.com/uploads/course/2015/11/cocostudio进阶.jpg","end","14901","cocoStudio进阶","normal"
+"cocos2d开发","首先介绍cocos2d的一些基础知识；然后介绍游戏的构成；举例介绍一个游戏如何对它进行需求分析图的设计，方便对以后开发有次序的进行；最后按需求实现游戏开发。
+这个游戏项目主要是基础的了解我们对cocos2dx的一些用法，知道他怎么用。起到对我们以后的认识和学习的入口作用。
+在这个课程当中使用了c++的一些基本语法；对cocos2dx的一些类的派生，根据c++的基本属性了解cocos2dx的一些用法。比如我们对动画类的继承，通过修改把它变为我们自定义的动画等等。然后就是层和节点之间的关系。最后是动画的编排，回调的实现和定时器线程的使用等。
+学完整个课程能够使你从了解到实战开发的课程设计。实现你从“理论知识”到游戏的转变过程；了解简单的游戏设计思路。
+课堂时间有限，还需大家课后对举一反三。","http://www.maiziedu.com/course/662/","http://www.maiziedu.com/uploads/course/2016/04/gjdz.jpg","end","21096","COCOS2d-x 飞机大战游戏","normal"
+"游戏原画","运用体块分析的方式绘制人物线稿 贯穿整个概念设计的学习过程。","http://www.maiziedu.com/course/292/","http://www.maiziedu.com/uploads/course/2016/04/3.1.png","end","6692","角色绘制能力培养 线稿绘制基础","vip"
+"游戏原画","掌握概念设计当中比较通用的从剪影开始的设计方式与思路。","http://www.maiziedu.com/course/288/","http://www.maiziedu.com/uploads/course/2016/04/3.2.png","end","8046","概念设计流程 角色设计的概念剪影与草图的绘制","vip"
+"游戏原画","从设计到绘画表现 角色设计的色彩与上色绘制。","http://www.maiziedu.com/course/289/","http://www.maiziedu.com/uploads/course/2016/04/3.3.png","end","5374","从设计到绘画表现 角色设计的色彩与上色绘制","vip"
+"游戏原画","材质与材质球绘制。","http://www.maiziedu.com/course/290/","http://www.maiziedu.com/uploads/course/2016/04/3.5.png","end","5778","刻画能力培养 材质绘制专题 (材质球的绘制)","vip"
+"游戏原画","材质的绘制范例。
+","http://www.maiziedu.com/course/291/","http://www.maiziedu.com/uploads/course/2016/04/3.6.png","end","7220","刻画范围 材质绘制专题（材质的绘制范例）","vip"
+"游戏原画","商业级别原画创作思路 世界观架构设计与分析 ","http://www.maiziedu.com/course/293/","http://www.maiziedu.com/uploads/course/2016/04/4-1.jpg","end","4940","商业级别原画创作思路 世界观架构设计与分析 ","vip"
+"游戏原画","商业级别原画创作思路讲解与示范 武器类设计&绘制
+","http://www.maiziedu.com/course/294/","http://www.maiziedu.com/uploads/course/2016/04/4-2_ATFbXIL.jpg","end","4906","商业级原画创作讲解示范 武器类设计&绘制","vip"
+"游戏原画","商业级别原画创作思路讲解与示范 套装类设计&绘制 ","http://www.maiziedu.com/course/295/","http://www.maiziedu.com/uploads/course/2016/04/4-3.jpg","end","4985","商业级原画创作讲解示范 套装类设计&绘制 ","vip"
+"游戏原画","商业级别原画创作思路讲解与示范 角色类设计&绘制 ","http://www.maiziedu.com/course/296/","http://www.maiziedu.com/uploads/course/2016/04/4-4.jpg","end","5511","商业级原画创作讲解示范 角色类设计&绘制 ","vip"
+"java开发","Weblogic","http://www.maiziedu.com/course/364/","http://www.maiziedu.com/uploads/course/2015/07/4.5Java_Web扩展-Weblogic.png","end","7608","Java Web扩展-Weblogic","normal"
+"java开发","Java Servlet是一个专门用于编写网络服务器应用程序的Java组件，是Java开发的基础语言。本节将由麦子学院在资深Java开发工程师从理论+实践，全面介绍Java Servlet知识体系。
+","http://www.maiziedu.com/course/365/","http://www.maiziedu.com/uploads/course/2015/07/2.3Java_Web基础-servlet.png","end","32569","Java Web基础-servlet","normal"
+"java开发","JSP为Java  Web开发基础课程，本节麦子学院原创高端JSP课程将由资深Java工程师从标签、对象、数据库的访问、表达式等方面详细介绍JSP相关知识及其操作方法。","http://www.maiziedu.com/course/366/","http://www.maiziedu.com/uploads/course/2015/07/2.4Java_Web基础-JSP.png","end","27671","Java Web基础-JSP","normal"
+"java开发","Tomcat  Java 中开发和调试JSP 程序的首选，本节将从tomcat的安装配置方法、优化方法及内存等方面进行讲解，全面剖析tomcat的操作要点。","http://www.maiziedu.com/course/367/","http://www.maiziedu.com/uploads/course/2015/07/2.6Java_Web基础-Tomcat.png","end","19610","Java Web基础-Tomcat","normal"
+"java开发","Maven作为一个项目管理工具，通过约定优于配置的方式提供了提供了统一的目录结构、统一的构建阶段、对第三方依赖库进行统一的版本管理，极大的简化了项目的配置管理难度，提供了Ant之外的另一种选择，得到了越来越广泛的应用。
+本套视频教程将从实践的角度带你学习Maven、在使用中理解Maven、理解自动化部署
+","http://www.maiziedu.com/course/369/","http://www.maiziedu.com/uploads/course/2015/07/4.6Java_Web扩展-Maven.jpg","end","23611","Java Web扩展-Maven","normal"
+"java开发","Spring MVC是一个非常优秀的MVC框架，设计精良，而且性能优秀。已经成为众多企业选择mvc框架的首选。另外大部分的java web应用都会使用spring框架,Spring MVC和Spring框架又是无缝结合。所以Spring MVC的市场前景会非常广阔。","http://www.maiziedu.com/course/426/","http://www.maiziedu.com/uploads/course/2015/07/4.7Java-Web拓展-Spring-MVC.jpg","end","46793","Java Web拓展-Spring MVC","normal"
+"java开发","java servlet 3.0新特性","http://www.maiziedu.com/course/487/","http://www.maiziedu.com/uploads/course/2015/07/4.8java_servlet_3.0新特性_9bTDIpo.jpg","end","10017","java servlet 3.0新特性","normal"
+"java开发","电子商务网站搜索开发基础-Lucene","http://www.maiziedu.com/course/511/","http://www.maiziedu.com/uploads/course/2015/08/电子商务网站搜索-Lucene_.jpg","on","8803","电子商务网站搜索开发基础-Lucene","normal"
+"java开发","Scala语言是一门结合函数式和面向对象两种编程范式的语言，学习Scala语言对了解这两种范式有极大的帮助，尤其是大数据领域中Spark开源项目的广泛使用之后，Scala语言的应用也变得极其重要。本课程主要是从实战角度带领大家学习Scala语言的基础知识。","http://www.maiziedu.com/course/521/","http://www.maiziedu.com/uploads/course/2015/08/Scala.jpg","on","12894","Scala 入门阶段学习","normal"
+"java开发","该课程讲解了jbpm基础知识和高级开发，包括jbpm和spring，hibernage集成等。还讲解了一个jbpm的web流程设计器。","http://www.maiziedu.com/course/534/","http://www.maiziedu.com/uploads/course/2015/08/4.9JBPM从入门到高级开发.jpg","end","18007","JBPM从入门到高级开发","normal"
+"java开发","Spring MVC是一个非常优秀的MVC框架，设计精良，而且性能优秀。已经成为众多企业选择mvc框架的首选。另外大部分的java web应用都会使用spring框架,Spring MVC和Spring框架又是无缝结合。所以Spring  MVC的市场前景会非常广阔。","http://www.maiziedu.com/course/539/","http://www.maiziedu.com/uploads/course/2015/08/_Lucene.jpg","on","7202","电子商务网站搜索开发基础-Lucene","normal"
+"java开发","本课程主要讲解了Microsoft SQL Server 2014基础知识，适于用数据库初级人员进行学习。
+在当前电子商务高速发展的时代，学习好数据库，将有助于你在电商、软件开发行业打好基础，站稳脚跟！","http://www.maiziedu.com/course/614/","http://www.maiziedu.com/uploads/course/2016/04/MicorSoft-SQL-Server_vc5PQLQ.jpg","on","47899","Microsoft SQL Server 2014数据库基础知识","normal"
+"java开发","当今时代，大数据、云计算、互联网+，这些名词每天通过各种途径充斥我们的大脑，显然已经全民进入了大数据时代。Hadoop的分布式存储和计算虽然能解决一部分问题，但高延迟的缺点也没办法绕过的。所以大数据时代，实时存储和查询又是一制高点，本课程将讲述分布式数据库HBase入门和使用技巧，体验到什么叫做毫秒级别的查询。学完课程后，学员能够搭建HBase开发环境，理解HBase的基础架构以及如何基于HBase做开发和设计，成为一名大数据开发工程师。","http://www.maiziedu.com/course/620/","http://www.maiziedu.com/uploads/course/2016/04/HBase.jpg","end","19188","HBase基础","normal"
+"java开发","学习Java基本语法、变量、流程控制、修饰符、修饰符、继承、抽象、接口、数组、异常。","http://www.maiziedu.com/course/804/","http://www.maiziedu.com/uploads/course/2016/05/12.jpg","end","80554","Java 语言基础","normal"
+"unity3d开发","通过全面介绍Unity的官方使用手册，让学员对使用Unity3D的开发基础有扎实的了解，对Unity3D引擎的每个主要部分有全面的掌握，进而可以使用Unity3D开发3D客户端游戏。","http://www.maiziedu.com/course/642/","http://www.maiziedu.com/uploads/course/2016/04/Unity3D.png","end","39073","Unity3D用户手册","normal"
+"unity3d开发","学习Unity3D最常用且好用的UI插件，学习完成之后几乎能够应对所有的游戏制作，从UI的基础讲解开始直到一些高级的实践项目应用，能在这里学习到实际项目开发中的UI制作方法和流程规范，能够方便大家快速上手，哪怕是没有程序经验的美术同学学习完成之后也可以进行Unity的UI制作。","http://www.maiziedu.com/course/651/","http://www.maiziedu.com/uploads/course/2016/04/NGUI.jpg","end","20084","NGUI插件从入门到高级","normal"
+"unity3d开发","随着手游市场的崛起，越来越多的学员想学习游戏开发技术，进而开发自己的游戏。而相对于其他游戏引擎来说，Unity3D拥有丰富的插件，友好的开发编辑环境，对多平台的适应度高等游戏。因此Unity3D备受开发人员青睐。
+学完本课程之后，学员将掌握Unity UGUI控件使用，UI交互界面搭建与逻辑编写，掌握Unity常用API及Unity游戏编写流程，熟悉unity游戏编程相关技巧。通过实战，为学员搭建从菜鸟到高手的桥梁。","http://www.maiziedu.com/course/653/","http://www.maiziedu.com/uploads/course/2016/04/ARPG.jpg","end","35287","ARPG游戏实战","normal"
+"unity3d开发","本期课程主要是学习通过用unity3D制作一些基础特效，主要针对零基础想学习u3d特效的同学们，通过学习之后能够熟练使用u3d，然后可以独立完成一些u3d项目。","http://www.maiziedu.com/course/655/","http://www.maiziedu.com/uploads/course/2016/04/Unity.jpg","end","18131","Unity基础游戏特效","normal"
+"unity3d开发","讲解着色器基本语法、着色器基本的运算规则、函数等。结合Unity3D讲解一些常用的着色器实例。","http://www.maiziedu.com/course/656/","http://www.maiziedu.com/uploads/course/2016/07/1_IxEiGH7.png","end","10486","3D着色器Shader","normal"
+"unity3d开发","了解UGUI的常用控件使用、事件系统、实现原理，可以使用UGUI进行二次开发，快速学会游戏界面开发。","http://www.maiziedu.com/course/658/","http://www.maiziedu.com/uploads/course/2016/04/Unity3D_UGUI.jpg","end","33366","Unity3D_UGUI游戏界面开发教程","normal"
+"unity3d开发","本套课程将实际讲解一个基于Unity3D的小的客户端demo《坦克大战》的制作过程，希望通过本套课程使同学掌握这些知识：
+１.使用Unity3d完成一个较完整的客户端游戏demo
+２.能够将demo在手机上运行
+３.在游戏中运用Unity3D的一些主要技术:摄像机,动态光照和阴影,烘培,动画系统,粒子系统,碰撞检测,UI显示,简单的ai,脚本编写,以及打包发布等","http://www.maiziedu.com/course/659/","http://www.maiziedu.com/uploads/course/2016/04/tkdz.jpg","end","23740","Unity3d之3D坦克大战实战","normal"
+"unity3d开发","本课程会带领大家了解Unity3D中一些相关插件的开发，让大家在以后的项目开发中能自主的开发一些插件，提升项目的开发效率以及开发质量","http://www.maiziedu.com/course/674/","http://www.maiziedu.com/uploads/course/2016/04/cjkf.jpg","end","11101","Unity3D插件开发","normal"
+"unity3d开发","NGUI插件项目实战 。","http://www.maiziedu.com/course/715/","http://www.maiziedu.com/uploads/course/2016/04/NGUI.jpg","on","6727","NGUI插件项目实战 ","normal"
+"unity3d开发","本课程将主要讲解基于Unity3D进行底层插件开发的原理和基本操作过程，以及sdk的接入。通过讲解使学生掌握Windows和Android平台上c#代码和平台native代码之间的各种交互，并且以棱镜sdk为例让学生了解什么是游戏sdk以及在Unity3D上的接入方法。","http://www.maiziedu.com/course/730/","http://www.maiziedu.com/uploads/course/2016/04/Unity3d-SDK-.jpg","on","13076","Unity3d插件开发与SDK对接实战","normal"
+"unity3d开发","跑酷项目实战可以让同学们了解到完整项目的开发流程，以及开发过程中需要注意的一些重要事项，能帮助同学们在实战过程中积累经验，避免踩到很多的坑。","http://www.maiziedu.com/course/769/","http://www.maiziedu.com/uploads/course/2016/04/Unity3Dpk.png","end","17628","Unity3D之跑酷项目实战","normal"
+"unity3d开发","商业级别原画创作思路讲解与示范 角色类设计&绘制 ","http://www.maiziedu.com/course/296/","http://www.maiziedu.com/uploads/course/2016/04/4-4.jpg","end","5511","商业级原画创作讲解示范 角色类设计&绘制 ","vip"
+"cocos2d开发","Cocos2d崩溃分析。","http://www.maiziedu.com/course/247/","http://www.maiziedu.com/uploads/course/2015/07/4.2Cocos2d崩溃分析.png","end","4021","Cocos2d崩溃分析","normal"
+"cocos2d开发","Cocos2d TexturePacker及ARC。","http://www.maiziedu.com/course/248/","http://www.maiziedu.com/uploads/course/2015/07/4.3Cocos2d_TexturePacker及ARC.png","end","3756","Cocos2d TexturePacker及ARC","normal"
+"cocos2d开发","Cocos2d Instruments详解。","http://www.maiziedu.com/course/249/","http://www.maiziedu.com/uploads/course/2015/07/4.4Cocos2d_Instruments详解.png","end","3535","Cocos2d Instruments详解","normal"
+"cocos2d开发","Cocos2d内存优化策略。","http://www.maiziedu.com/course/250/","http://www.maiziedu.com/uploads/course/2015/07/4.5Cocos2d内存优化策略.png","end","3731","Cocos2d内存优化策略","normal"
+"cocos2d开发","Cocos2d游戏瘦身及分辨率适配。","http://www.maiziedu.com/course/251/","http://www.maiziedu.com/uploads/course/2015/07/4.6Cocos2d游戏瘦身及分辨率适配.png","end","4648","Cocos2d游戏瘦身及分辨率适配","normal"
+"cocos2d开发","Cocos2d数据存储及用户行为统计。","http://www.maiziedu.com/course/252/","http://www.maiziedu.com/uploads/course/2015/07/5.1Cocos2d数据存储及用户行为统计.png","end","4308","Cocos2d数据存储及用户行为统计","normal"
+"cocos2d开发","Cocos2d广告。","http://www.maiziedu.com/course/253/","http://www.maiziedu.com/uploads/course/2015/07/5.2Cocos2d广告.png","end","3712","Cocos2d广告","normal"
+"cocos2d开发","Cocos2d应用内购买及IAP。","http://www.maiziedu.com/course/254/","http://www.maiziedu.com/uploads/course/2015/07/5.3Cocos2d应用内购买及IAP.png","end","4740","Cocos2d应用内购买及IAP","normal"
+"cocos2d开发","Cocos2d社交、推送及语言本地化。","http://www.maiziedu.com/course/255/","http://www.maiziedu.com/uploads/course/2015/07/5.4Cocos2d社交推送及语言本地化.png","end","4621","Cocos2d社交、推送及语言本地化","normal"
+"cocos2d开发","在Android、IOS风行的年代，在充斥浮躁、追求速成的年代，如果有一门语言值得我们去沉下心来好好研究，那它应该是C++。
+本套视频教程将从实践的角度带你学习C++。在使用中理解C++、理解面向对象思想。","http://www.maiziedu.com/course/432/","http://www.maiziedu.com/uploads/course/2015/07/1.1C面向对象编程.png","end","42439","C++面向对象编程","normal"
+"cocos2d开发","这是一门Cocos2d-X网络编程的基础课程，通过这门课程，您可以了解网络通讯的原理；掌握在Cocos2d-X中进行网络通信的方式；学会使用http,socket,websocket与服务器交互；使用rapidJson解析处理数据。 ","http://www.maiziedu.com/course/542/","http://www.maiziedu.com/uploads/course/2015/08/1.17Cocos2d-X网络编程.jpg","end","27713","Cocos2d-X网络编程","normal"
+"cocos2d开发","这个是cocose2d游戏实战开发课程。首先介绍cocos2d的一些基础知识；然后介绍游戏的构成；举例介绍一个游戏如何对它进行需求分析图的设计，方便对以后开发有次序的进行；最后按需求实现游戏开发。
+学完整个课程能够使你从了解到实战开发的课程设计。实现你从“理论知识”到游戏的转变过程；了解简单的游戏设计思路。
+课堂时间有限，还需大家课后对举一反三。","http://www.maiziedu.com/course/561/","http://www.maiziedu.com/uploads/course/2015/09/4.5纸牌游戏设计和实现.jpg","end","23036","Cocos2d-x纸牌游戏设计和实现 ","normal"
+"cocos2d开发","cocos引擎&cocostudio","http://www.maiziedu.com/course/599/","http://www.maiziedu.com/uploads/course/2015/11/cocostudio.jpg","end","45827","cocos引擎&cocostudio","normal"
+"cocos2d开发","cocos2d－x中的文件读写","http://www.maiziedu.com/course/600/","http://www.maiziedu.com/uploads/course/2016/07/1_jNfaTBd.png","end","8113","cocos2d－x文件读写","normal"
+"cocos2d开发","简要介绍物理引擎和粒子系统的使用，重点讲解cocos2d-x3.6内部集成的物理引擎及配合粒子系统产生物理特效的原理和使用方法。","http://www.maiziedu.com/course/601/","http://www.maiziedu.com/uploads/course/2016/04/wltx.jpg","on","9806","cocos2d－x物理特效","normal"
+"软件测试","自动化测试基础","http://www.maiziedu.com/course/448/","http://www.maiziedu.com/uploads/course/2015/07/3.1自动化测试基础n.jpg","end","14051","自动化测试基础","normal"
+"软件测试","UFT自动化测试详解","http://www.maiziedu.com/course/449/","http://www.maiziedu.com/uploads/course/2015/07/3.2UFT自动化测试详解.jpg","end","47949","UFT自动化测试详解","vip"
+"软件测试","UFT高级测试开发","http://www.maiziedu.com/course/450/","http://www.maiziedu.com/uploads/course/2015/07/3.3UFT--高级测试开发.jpg","end","11961","UFT高级测试开发","vip"
+"软件测试","自动化测试框架设计","http://www.maiziedu.com/course/451/","http://www.maiziedu.com/uploads/course/2015/07/3.4自动化测试框架设计.jpg","end","12360","自动化测试框架设计","vip"
+"软件测试","UFT综合实战","http://www.maiziedu.com/course/452/","http://www.maiziedu.com/uploads/course/2015/07/3.5UFT综合实战.jpg","end","7578","UFT综合实战","normal"
+"软件测试","缺陷概念贯穿于整个软件生命周期，清晰明确地定义缺陷，能够有效地帮助开发人员尽快、尽早解决缺陷，从而提高产品质量，按时完成。缺陷管理流程在软件测试活动实施过程中非常重要，本阶段重点介绍缺陷定义、缺陷产生原因，常见的缺陷报告形式及企业常见的“审核式”缺陷管理流程","http://www.maiziedu.com/course/465/","http://www.maiziedu.com/uploads/course/2015/07/1.5缺陷管理.jpg","end","15275","缺陷管理","normal"
+"软件测试","这是一门Linux网络编程的项目实战课程，目标是让你把知识从“知道”变成“应用”，让你从“会编程”过渡到“会做项目”，让你学会用嵌入式驱动开发工程师的方式来思考和设计。","http://www.maiziedu.com/course/479/","http://www.maiziedu.com/uploads/course/2015/07/5.2Linux网络编程项目实战_-_轻量级HTTP服务器_2gshcZR.jpg","end","44262","Linux网络编程项目实战 - 轻量级HTTP服务器","normal"
+"软件测试","这是一门Linux shell 编程与实践的课程，大家不但能够接触到linux shell编程的基础课程，而且可以更广泛的了解目前主流互联网公司中用到的shell编程的实际案例，让学生不只是停留在对基础知识的学习上，更发散学生的思维与视野，通过多方面能力解决工作中遇到的实际问题。","http://www.maiziedu.com/course/529/","http://www.maiziedu.com/uploads/course/2015/08/课程封面.png","end","26051","Linux SHELL编程与实践","vip"
+"软件测试","本课程主要在自动化测试中selenium的基本使用，为自动化测试构建提供基本知识。","http://www.maiziedu.com/course/568/","http://www.maiziedu.com/uploads/course/2015/09/4.11自动化测试.jpg","end","44999","自动化测试-selenium","vip"
+"软件测试","这是一门Linux的基础课程，目标是让你能够熟练使用和操作Linux系统，为在Linux系统上做程序开发和以后做Android底层开发打下坚实的基础。本课程以知识+实操的方式来讲授，使学生能够轻松快乐地掌握Linux操作系统的使用。","http://www.maiziedu.com/course/588/","http://www.maiziedu.com/uploads/course/2015/10/5.12Linux.jpg","end","101977","Linux操作系统基础（最新版）","vip"
+"软件测试","前置知识：基本的网络基础，如路由器，交换机，防火墙、无线网络常见服务协议（DHCP、ARP、DNS等）。
+通过此课程，学员可以掌握网络安全设计基本知识，网络中存在的安全威胁如ARP嗅探、DNS欺骗、无线钓鱼劫持等，以及相应的安全防御手段。","http://www.maiziedu.com/course/619/","http://www.maiziedu.com/uploads/course/2015/11/网络安全基础.jpg","on","8572"," 网络安全基础","normal"
+"软件测试","本课程主要讲解如何使用python提供模块进行测试用例设计，测试用例实现，对程序的最小模块进行测试，将问题在最小范围内定位问题。","http://www.maiziedu.com/course/661/","http://www.maiziedu.com/uploads/course/2016/04/dycs.jpg","end","20577","单元测试","normal"
+"软件测试","随着Web 2.0技术的迅速发展，大部分软件产品均基于web开发。因此，web测试在整个测试过程中有着重要的地位，但由于web测试点非常多，测试过程复杂，技术要求高，所以需要对web进行系统理论的实践学习。
+本套视频教程将从实践的角度带你学习WEB测试。在测试过程中理解WEB测试、掌握WEB测试的技术方法，形成WEB测试思维。","http://www.maiziedu.com/course/696/","http://www.maiziedu.com/uploads/course/2016/04/web-csxmsz.jpg","end","21235","web测试项目实战","vip"
+"软件测试","本套视频教程主要从实践的角度来学习网络协议，最终使你能够快速部署中小型企业网络。","http://www.maiziedu.com/course/874/","http://www.maiziedu.com/uploads/course/2016/08/wlgg.jpg","on","5950","网络架构","vip"
+"软件测试","本套课程主要是为大家介绍RF测试框架相关内容，帮助大家快速掌握RF测试框架的应用。","http://www.maiziedu.com/course/917/","http://www.maiziedu.com/uploads/course/2016/09/12_FNDThqU.png","end","6306","RF测试框架","normal"
+"自动化运维","负载均衡（Server Load Balancer）是对多台云服务器进行流量分发的负载均衡服务，可以通过流量分发扩展应用系统对外的服务能力，通过消除单点故障提升应用系统的可用性。本课程重点介绍阿里云SLB负载均衡的购买、配置和使用。","http://www.maiziedu.com/course/929/","http://www.maiziedu.com/uploads/course/2016/10/SLB.png","end","2904","阿里云SLB","vip"
+"自动化运维","Spark 内核部分是Spark计算框架的核心，也是Spark 各个子框架的基础。本课程会尽可能以通俗的方式讲解Spark编程模型、执行框架等核心内容，并在此基础上，给出常用的API的实战案例与解析，使大家能初步了解Spark内核的实战开发，并为后续各个子框架的实战打好基础。","http://www.maiziedu.com/course/629/","http://www.maiziedu.com/uploads/course/2016/04/SparkRDD-API.jpg","end","14244","Spark内核解析与RDD API基础操作实战","normal"
+"Windows phone开发","后台任务操作。","http://www.maiziedu.com/course/191/","http://www.maiziedu.com/uploads/course/2015/07/3.4后台任务操作_.jpg","end","3856","Windows Phone 8后台任务操作","normal"
+"Windows phone开发","MVVM模式及程序架构。","http://www.maiziedu.com/course/192/","http://www.maiziedu.com/uploads/course/2015/07/3.5MVVM模式及程序架构_.jpg","end","5843","Windows Phone 8MVVM模式及程序架构","normal"
+"Windows phone开发","多任务并行编程。","http://www.maiziedu.com/course/193/","http://www.maiziedu.com/uploads/course/2015/07/3.6多任务并行编程_.jpg","end","3171","Windows Phone 8多任务并行编程","normal"
+"Windows phone开发","wp8应用优化及提交市场。","http://www.maiziedu.com/course/194/","http://www.maiziedu.com/uploads/course/2015/07/3.7wp8应用优化及提交市场-.jpg","end","3374","Windows Phone 8应用优化及提交市场","normal"
+"Windows phone开发","wp8应用开发总结。","http://www.maiziedu.com/course/195/","http://www.maiziedu.com/uploads/course/2015/07/3.8wp8应用开发总结-.jpg","end","2568","Windows Phone 8应用开发总结","normal"
+"Windows phone开发","项目实战之多功能时钟。","http://www.maiziedu.com/course/196/","http://www.maiziedu.com/uploads/course/2015/07/4.1项目实战之多功能时钟_.jpg","end","8227","Windows Phone 8项目实战之多功能时钟","normal"
+"Windows phone开发","项目实战之随手涂鸦记事。","http://www.maiziedu.com/course/197/","http://www.maiziedu.com/uploads/course/2015/07/4.2项目实战之随手涂鸦记事_.jpg","end","5821","Windows Phone 8项目实战之随手涂鸦记事","normal"
+"Windows phone开发","项目实战之快递助手。","http://www.maiziedu.com/course/198/","http://www.maiziedu.com/uploads/course/2015/07/4.3项目实战之快递助手_.jpg","end","5669","Windows Phone 8项目实战之快递助手","normal"
+"Windows phone开发","Windows phone 8.1开发概述。","http://www.maiziedu.com/course/213/","http://www.maiziedu.com/uploads/course/2015/07/5.1Windows-phone-8.1开发概述.jpg","end","3568","Windows phone 8.1开发概述","normal"
+"Windows phone开发","Windows phone 8.1基础控件、程序布局和几何图形。","http://www.maiziedu.com/course/214/","http://www.maiziedu.com/uploads/course/2015/07/5.2Windows-phone-8.1基础控件程序布局和几何图形.jpg","end","5210","Windows phone 8.1基础控件、程序布局和几何图形","normal"
+"Windows phone开发","Windows phone 8.1应用数据。","http://www.maiziedu.com/course/215/","http://www.maiziedu.com/uploads/course/2015/07/5.3Windows-phone-8.1应用数据.jpg","end","4014","Windows phone 8.1应用数据","normal"
+"Windows phone开发","Windows phone 8.1吐司通知和磁贴。","http://www.maiziedu.com/course/216/","http://www.maiziedu.com/uploads/course/2015/07/5.4Windows-phone-8.1吐司通知和磁贴.jpg","end","3618","Windows phone 8.1吐司通知和磁贴","normal"
+"Windows phone开发","Windows phone 8.1联系人存储。","http://www.maiziedu.com/course/217/","http://www.maiziedu.com/uploads/course/2015/07/5.5Windows-phone-8.1联系人存储.jpg","end","3421","Windows phone 8.1联系人存储","normal"
+"Windows phone开发","Windows phone 8.1语音功能。","http://www.maiziedu.com/course/218/","http://www.maiziedu.com/uploads/course/2015/07/5.6Windows-phone-8.1语音功能.jpg","end","4437","Windows phone 8.1语音功能","normal"
+"Windows phone开发","Windows phone 8.1触摸感应与传感器。","http://www.maiziedu.com/course/219/","http://www.maiziedu.com/uploads/course/2015/07/5.7Windows-phone-8.1触摸感应与传感器.jpg","end","3660","Windows phone 8.1触摸感应与传感器","normal"
+"python web开发","Python，一个比Java更早4年的语言，近年来被人们熟知，它的优雅与快捷给人们留下了深刻的印象。
+本课程将使用Python语言与Django Web开发框架搭建一个强大的购物系统。通过本项目的学习，全面系统地掌握使用Django开发出功能强大的网站，
+更重要地是让学员掌握Web开发从设计到部署的一整套流程，有能力根据自身需求去实现功能或者在现有基础上进行扩展。","http://www.maiziedu.com/course/544/","http://www.maiziedu.com/uploads/course/2015/09/2.9django项目实战之购物系统.jpg","on","49884","django项目实战之购物系统","vip"
+"python web开发","这是一门介绍Python的面向对象编程的的课程，通过本课程的学习，让你能熟练运用Python语言通过面向对象编程，并运用其面向对象特性，以高效率的方式完成编程项目程序。","http://www.maiziedu.com/course/545/","http://www.maiziedu.com/uploads/course/2015/09/Python-面向对象编程-.jpg","end","75898","Python 面向对象编程","vip"
+"python web开发","算法与应用 。","http://www.maiziedu.com/course/572/","http://www.maiziedu.com/uploads/course/2015/10/4.12算法与应用.jpg","end","63739","深度学习进阶：算法与应用","vip"
+"python web开发","本课程首先介绍了Python语言中的数据库接口规范（2.0版），之后通过Python标准库中的sqlite3模块进一步学习Python中操作SQLite3数据库；接着介绍操作MariaDB及ORM框架sqlalchemy的使用方法;最后重点介绍Python操作MongoDB数据库的方法。
+通过本课程的学习，使你能够胜任Python操作各类数据库编程，以期在各类项目中的应用。","http://www.maiziedu.com/course/573/","http://www.maiziedu.com/uploads/course/2015/10/Python-数据库编程.jpg","end","31627","Python 数据库编程","vip"
+"python web开发","这是一门python自动化运维及监控系统的实战课程，目标是让你了解自动化运维的好处，原理。","http://www.maiziedu.com/course/576/","http://www.maiziedu.com/uploads/course/2015/10/python自动化运维web监控系统.jpg","end","30746","python自动化运维+web监控系统","vip"
+"python web开发","这是一门python GUI编程的项目实战课程，目标是让学员学会使用pyqt设计基本的GUI程序，让你从“不知道python能干什么”和“学完了基础语法不知道再学什么”过渡到知道“python能做任何事情”和“我学的还不够多”，以实际程序带你走进python开发GUI程序的世界。本课程既是对基础语法学习的一个检验，又是对python编程的提高。","http://www.maiziedu.com/course/577/","http://www.maiziedu.com/uploads/course/2015/10/使用pyqt开发windows-gui程序及打包.jpg","end","83782","使用pyqt开发windows gui程序及打包","normal"
+"python web开发","web前端开发之----javascript 进阶","http://www.maiziedu.com/course/581/","http://www.maiziedu.com/uploads/course/2015/10/javascript进阶_A7H7vnU.jpg","end","16958","Javascript 进阶","normal"
+"python web开发","主要介绍一下MemCache的一些常用的操作命令和在项目中的一些实战。","http://www.maiziedu.com/course/591/","http://www.maiziedu.com/uploads/course/2015/11/MemCache.jpg","end","14410","MemCache","normal"
+"python web开发","网站实时通讯一体化解决方案，采用websocket协议（基于TCP）实现，告别传统的 long poll 和 ajax轮询 方式，极大减轻服务器的资源消耗。系统采用非阻塞方式，实现多组用户之间的消息传递，将http协议的被动性转换为服务端的主动性。同时，Websocket通过建立持久连接，解决了消息处理速度过慢的问题。","http://www.maiziedu.com/course/597/","http://www.maiziedu.com/uploads/course/2015/11/基于Node.js的web实时聊天室项目.jpg","end","21974","基于Node.js的web实时聊天室项目","normal"
+"python web开发","本课程是通过nodejs进行数据抓取来显示资讯，学生可以通过对该课程的学习，掌握爬虫的基本原理和具体方法，能快速实现数据抓取，不仅可扩展开发出自动更新的集合式资讯网站，也能为站群管理系统提供数据服务，做到数据的多渠道、高实时。","http://www.maiziedu.com/course/626/","http://www.maiziedu.com/uploads/course/2016/04/NodeJS-pczs.jpg","end","14359","NodeJS爬虫应用之资讯助手系统","vip"
+"python web开发","做全栈工程师但是只会JS？因为全栈工程师要懂设计、前端开发、后端开发、数据库、运营等，看起来门槛很高的样子？即使你只会简单的JS也没关系，本课程从界面到前端
+，再从前端到后端，再到数据库，手把手的教你如何开发1个功能完整的博客系统。通过实际项目掌握 NodeJS 做全栈开发的基本技术栈：Express MVC 框架，Jade 模板引擎，Mongoose ORM 库，MongoDB 数据库，Bootstrap 前端模板。","http://www.maiziedu.com/course/627/","http://www.maiziedu.com/uploads/course/2016/04/bkxt.jpg","end","40902","玩转node.js全栈开发之博客系统 ","normal"
+"python web开发","本课程主要介绍Python标准库中的socket(套接字)模块、socketserver模块和threading(多线程)模块的相关知识及其在项目中的应用。课程从计算机网络基本理论介绍开始，并以一个小项目的完成贯穿整个教学过程，来循序渐进的学习这些模块的使用；通过本课程的学习能够让你掌握运用Python语言开发各种高效运行的网络应用程序的基本技能。","http://www.maiziedu.com/course/644/","http://www.maiziedu.com/uploads/course/2016/04/Python-socket-and-threading.jpg","end","31729","Python :socket and threading","vip"
+"python web开发","Python 3.X，也被称为 Python 3000 或 Py3K是 Guido van Rossum 通用编程语言的最新版本。新版本对核心语言做了很多改进，打破了与 2.X 版本的向后兼容性。本课程将要对新版本的特性做详细介绍，以便开发者在使用Python时避开版本中一些常见的陷阱，也方便开发者移植Python项目。","http://www.maiziedu.com/course/673/","http://www.maiziedu.com/uploads/course/2016/04/Python-3.jpg","end","12928","Python3.X新特性","vip"
+"python web开发","在实际项目开发过程中不同机器间的操作不可避免，如何高效进行交互甚至自动化运维，我们可以利用paramiko这个利器。本套视频教程将从实践的角度带你学习paramiko。不仅教会原理，而且让你学会结合python高级技巧进行paramiko操作并有源码分析的高级进阶让你眼前一亮。","http://www.maiziedu.com/course/688/","http://www.maiziedu.com/uploads/course/2016/04/paramiko.jpg","end","14110","paramiko基础","vip"
+"python web开发","Python 已成为IT自动化领域使用最火的语言，它的简洁、高效、易学让众多Pythoner爱不释手，但Alex发现很多运维人员对于Python的使用仅限于编写一些常用脚本，编写相对复杂的自动化工具和程序时就力不从心了，SO Alex决定通过带大家开发一个自动化监控的项目来帮助大家提高 Python自动化项目的架构设计和开发能力，通过本课程，你将会学到以下内容：
+1.常规监控系统架构设计和原理；
+2.在设计自动化程序的架构时应该注意问题；
+3.怎样在开发过程中将程序各模块做到最大程度解藕以便于日后的扩展；
+4.如果通过Python + Django 打造支持高并发的分布式监控程序。","http://www.maiziedu.com/course/692/","http://www.maiziedu.com/uploads/course/2017/04/Pythonzidonghua.png","on","25639","Python自动化开发-类Zabbix监控项目","normal"
+"python web开发","这是一门使用python Tornado框架进行web开发的实战课程，课程通过一个blog网站的开发为主线，对Tornado框架的使用方法进行了详细讲解，目标是使学员能熟练掌握 Tornado框架。","http://www.maiziedu.com/course/314/","http://www.maiziedu.com/uploads/course/2015/07/2.7Tornado入门.png","end","29779","python-Tornado ","vip"
+"python web开发","本章主要是php开发中Mysql基础知识的学习，包括MySQL的简单介绍和安装、MySQL管理工具的使用、表的建立、数据的查询、数据的修改和数据的增加等等，全面掌握php网站的数据管理。
+","http://www.maiziedu.com/course/331/","http://www.maiziedu.com/uploads/course/2015/07/2.3Mysql基础.jpg","end","70525","Mysql基础","vip"
+"python web开发","一般中小型网站的开发都选择 MySQL 作为网站数据库。由于其社区版的性能卓越，搭配 PHP 和 Apache 可组成良好的开发环境。随着mysql的功能不断完善，性能不断提高，可靠性不断增强，在mysql实际开发中，我们可能会面临这样的问题：如何选择它的存储引擎，如何来诊断和优化mysql的查询，mysql的锁有什么机制，如何减少锁冲突，提高并发度。然而mysql的参考文档很精练，也很零碎，面对浩如烟海的网页来找出有用的信息解决上面所提到的问题也绝非易事，为了能让大家对mysql的开发和管理了解得更深，有利于后期的php开发维护等工作的开展，将平时项目开发中所积累的mysql的开发和管理的经验，解决问题的方法和思路，以及对mysql的认识整理出来，做成这套教程与大家分享。
+","http://www.maiziedu.com/course/335/","http://www.maiziedu.com/uploads/course/2015/07/3.2Mysql进阶.jpg","end","52313","Mysql进阶","vip"
+"python web开发"," Redis是一个key-value存储系统，是php开发中重要技术之一，本章将由麦子学院资深php开发工程师为你讲解 Redis的安装、配置、命令等相关内容，让你轻松入门 Redis。","http://www.maiziedu.com/course/337/","http://www.maiziedu.com/uploads/course/2015/07/4.5Redis入门.png","end","20387","Redis入门","vip"
+"python web开发","node.js上最新HTML5开发框架-Meteor 是一组新的技术用于构建高质量的 Web 应用，提供很多现成的包，可直接在浏览器或者云平台中运行。本章Meteor的学习，由麦子学院资深Python开发工程师为你系统的讲解，助你迅速掌握Meteor编程的各个要点。","http://www.maiziedu.com/course/342/","http://www.maiziedu.com/uploads/course/2017/04/MeteorApp.png","end","75511","用Meteor构建App程序","vip"
+"python web开发","本课程的学员会学习怎么用PHP和MySQL去做一个待办事项目列表《To－Do List》，美国大牛老师教你怎么用php管理数据库连接，如何查询、修改、删除以及如何写安全的预处理语句，还等什么，快来一起学习吧。","http://www.maiziedu.com/course/371/","http://www.maiziedu.com/uploads/course/2015/07/2.5PHP和MySQL函数库的使用.jpg","end","27750","PHP和MySQL函数库的使用","vip"
+"python web开发","本课作为深度学习系列课程的第一阶段，介绍机器学习的基本概念，原理，以及常用算法（如决策树，支持向量机，神经网络算法等）。以Python语言为工具对每种算法进行结合实例讲解。学生学完本课程后将会理解机器学习的常用算法原理，并会使用Python中相关的package来对实际问题进行数据预处理，分类和回归分析。为开发机器学习相关应用打下必要基础，同时也为学习深度学习进阶课程打下必要基础。","http://www.maiziedu.com/course/373/","http://www.maiziedu.com/uploads/course/2017/04/jiqiren.png","end","136397","深度学习基础介绍-机器学习","normal"
+"python web开发","畅然带你ExpressJS入门。","http://www.maiziedu.com/course/391/","http://www.maiziedu.com/uploads/course/2015/03/QQ图片20150319171018.jpg","on","10095","Express","normal"
+"python web开发"," Python是什么？豆瓣和Youtube是用它开发的；美国最流行的三大服务器开发语言之一，最工整最严谨的编程语言，取代Java和PHP的开源趋势语言。
+通过这个课程的学习，我们会初步掌握Python语言的使用以及利用Django框架开发出自己的简易Blog系统，初步踏入了Web开发工程师的行列。","http://www.maiziedu.com/course/393/","http://www.maiziedu.com/uploads/course/2017/04/Pythonchutan.png","end","121165","Python课程初探","normal"
+"python web开发","Tkinter桌面编程","http://www.maiziedu.com/course/457/","http://www.maiziedu.com/uploads/course/2015/07/3.1Tkinter桌面编程.jpg","end","29187","Tkinter桌面编程","normal"
+"python web开发","这是一门网络爬虫实战课程，让我们带你揭开爬虫的神秘面纱，掌握爬虫的基本原理，深入理解scrapy框架，使用scrapy进行项目实战，解决在数据抓取过程中遇到的常见问题。","http://www.maiziedu.com/course/458/","http://www.maiziedu.com/uploads/course/2015/08/Python网络爬虫实战.jpg","end","91396","Python网络爬虫实战-Scrapy","vip"
+"python web开发","项目-Python开发跨平台的记事本","http://www.maiziedu.com/course/460/","http://www.maiziedu.com/uploads/course/2015/07/3.2Python开发跨平台的记事本.jpg","end","22843","项目-Python开发跨平台的记事本","normal"
+"python web开发","这是一门介绍Python的WEB编程的微框架Bottle的课程，通过本课程的学习，让你能熟练运用Bottle框架及其各种特性完成中小型WEB服务器项目程序。","http://www.maiziedu.com/course/494/","http://www.maiziedu.com/uploads/course/2015/07/4.9Bottle_Web开发.png","end","21425","Bottle Web开发","vip"
+"python web开发","node.js从入门到进阶","http://www.maiziedu.com/course/515/","http://www.maiziedu.com/uploads/course/2015/08/1.node.js从入门到进阶.jpg","on","37854","node.js从入门到进阶","vip"
+"python web开发","node.js项目实战","http://www.maiziedu.com/course/517/","http://www.maiziedu.com/uploads/course/2015/08/2.node.js项目实战_dGDcWso.jpg","on","19458","node.js项目实战","vip"
+"产品&运营","通过产品经理理论知识的学习，进行实际训练，运用之前课程中的方法和工具，完整的进行产品的设计流程和整体规划，对产品经理工作中的各个环节进行梳理形成全面认识，从零打造一款工具app产品。","http://www.maiziedu.com/course/320/","http://www.maiziedu.com/uploads/course/2015/07/4.2从零打造一款工具app产品.png","end","13050","从零打造一款工具app产品","vip"
+"产品&运营","通过实际训练，运用之前课程中的方法和工具，完整的进行O2O互联网产品的设计流程和整体规划，对产品经理工作中的各个环节进行梳理形成全面认识。","http://www.maiziedu.com/course/321/","http://www.maiziedu.com/uploads/course/2015/07/4.3怎么做一款O2O互联网产品.png","end","10419","怎么做一款O2O互联网产品","vip"
+"产品&运营","UX软件交互式设计，本章将由麦子学院资深UX软件交互式设计师带你围绕客户体验，按照既定设计流程，根据产品目标，运用UX设计工具，完成极具用户体验的产品设计，让你体验不一样的产品交互式设计之旅。","http://www.maiziedu.com/course/374/","http://www.maiziedu.com/uploads/course/2015/07/1.1学习UX第一季-轻松入门.png","end","73527","学习UX第一季-轻松入门","vip"
+"产品&运营","本套课程不同于目前市面上产品经理基本理论的大多数课程，本套课程重在运用产品经理专业理论，解决产品经理工作实际问题，从实际产品开发中的每一个细节探究产品，力求让产品人不再纸上谈兵，要理有据做产品，让产品菜鸟一步步蜕变成产品大神。","http://www.maiziedu.com/course/509/","http://www.maiziedu.com/uploads/course/2017/04/xiulian.png","end","36056","产品经理内功修炼","vip"
+"产品&运营","这是一门关于项目管理的课程，目标是让你了解现代IT项目管理流程，并且能够针对某个流程设计出一套相关的文档，从而使整个项目规范化和科学化。","http://www.maiziedu.com/course/524/","http://www.maiziedu.com/uploads/course/2015/08/项目管理.jpg","end","18039","项目管理","vip"
+"产品&运营","本章产品经理视频教程，不同于目前市面上产品经理基本理论的大多数课程，本套课程重在运用产品经理专业理论，解决产品经理工作实际问题，从实际产品开发中的每一个细节探究产品，力求让产品人不再纸上谈兵，要理有据做产品，让产品菜鸟一步步蜕变成产品大神。","http://www.maiziedu.com/course/528/","http://www.maiziedu.com/uploads/course/2015/08/产品经理不再纸上谈兵.png","end","21819","产品经理不再纸上谈兵","normal"
+"产品&运营","站在前端工程师的角度，看看产品经理如何设计Web流程。","http://www.maiziedu.com/course/538/","http://www.maiziedu.com/uploads/course/2015/08/AXURE交互图.jpg","end","14192","AXURE交互图","vip"
+"产品&运营","本套课程不同于目前市面上产品经理基本理论的大多数课程，本套课程重在运用产品经理专业理论，解决产品经理工作实际问题，从实际产品开发中的每一个细节探究产品，力求让产品人不再纸上谈兵，要理有据做产品，提升产品经理的自我修养，让产品菜鸟一步步蜕变成产品大神。","http://www.maiziedu.com/course/546/","http://www.maiziedu.com/uploads/course/2015/09/产品经理的自我修养.jpg","end","16386","产品经理的自我修养","vip"
+"产品&运营","本章产品视频教程主要是帮助大家，掌握产品经理相关的知识（交互、UI、运营、用户体验等），将产品思维贯穿产品开发的每一个环节，从更高的角度提升产品整体层级。","http://www.maiziedu.com/course/574/","http://www.maiziedu.com/uploads/course/2015/10/产品经理从专能到全能.jpg","end","23808","产品经理从专能到全能","vip"
+"产品&运营","1.认识互联网各分类行业的发展现状
+2.了解互联网热门产品的设计和发展
+3.对热门产品进行竞品分析
+4.学习优秀互联网产品的成功经验","http://www.maiziedu.com/course/594/","http://www.maiziedu.com/uploads/course/2017/04/fenxi.png","end","48536","热门产品分析","vip"
+"产品&运营","该任务要求深入理解产品经理的工作理念，工作流程，以及工作职责。","http://www.maiziedu.com/course/672/","http://www.maiziedu.com/uploads/course/2016/04/srlj.jpg","end","29415","深入理解产品经理","vip"
+"产品&运营","思维导图 产品经理常用工具。","http://www.maiziedu.com/course/679/","http://www.maiziedu.com/uploads/course/2016/04/swdt.jpg","end","21430","思维导图 产品经理常用工具","vip"
+"产品&运营","Axure是产品经理日常工作最常用的工具之一，熟练应用Axure将有助于提升产品经理工作效率，提升与产品研发团队的沟通效果。","http://www.maiziedu.com/course/708/","http://www.maiziedu.com/uploads/course/2017/04/AXURE.png","end","40681","产品经理原型设计工具Axure使用基础","vip"
+"产品&运营","随着我国互联网行业迅猛发展，互联网公司中不同职位的界定愈发清晰，对员工的专业能力需求也愈发突出，Axure RP7是行业中最知名的原型设计工具之一，熟练使用Axure是成为UX设计师甚至产品经理的先决条件。
+本视频通过真实案例，循序渐进的帮助你学习掌握Axuer。","http://www.maiziedu.com/course/728/","http://www.maiziedu.com/uploads/course/2016/04/jhsj-yxsj.jpg","end","32615","交互设计之原型设计","vip"
+"产品&运营","该课程主要是通过介绍什么是产品经理，成为产品经理所需要具备的条件是什么。本课程的主旨是：使即将步入产品经理这个岗位的学员认识到产品经理在团队中所扮演的角色，以及如何扮演好这个角色。","http://www.maiziedu.com/course/761/","http://www.maiziedu.com/uploads/course/2016/04/cpjl.jpg","end","12782","产品经理概论和主要职责","vip"
+"ui & 平面","MUI项目实训-互联网企业网站设计","http://www.maiziedu.com/course/763/","http://www.maiziedu.com/uploads/course/2016/04/qywzsj.png","end","9109","MUI项目实训-互联网企业网站设计","vip"
+"ui & 平面","掌握PhotoShop、axure的操作，理解用户体验在产品设计中的重要性和具体实践操作的方法、技巧等。","http://www.maiziedu.com/course/774/","http://www.maiziedu.com/uploads/course/2016/07/2_cuUIuAd.png","end","8006","用户体验设计概论与实操","vip"
+"ui & 平面","学习PhotoShop及Cutterman、Markman、.9切图、标注UI界面
+掌握PhotoShop、Cutterman、Markman的操作和实践上的知识和技巧。","http://www.maiziedu.com/course/775/","http://www.maiziedu.com/uploads/course/2016/04/Nina.png","end","6665","移动UI设计实战","vip"
+"ui & 平面","移动UI设计规范（下）","http://www.maiziedu.com/course/778/","http://www.maiziedu.com/uploads/course/2016/04/gfx.png","end","8629","移动UI设计规范（下）","normal"
+"ui & 平面","本套移动ui设计教程，主要是为大家介绍移动开发ui设计中的情景特性、网络特性、物理特性、触摸手势、系统特性等等基础方面的设计特性相关内容，帮助初学者快速入门UI设计。","http://www.maiziedu.com/course/796/","http://www.maiziedu.com/uploads/course/2016/05/sjjc.jpg","end","8157","移动ui设计基础","normal"
+"ui & 平面","  好的UI设计是由精美优雅的视觉和体贴细致交互组成的，一名好的UI设计从业人员必须学会同时把握美学与交互的平衡，特别是在UI设计行业快速膨胀的中国市场。
+在这个课程当中，我们将着重了解UI设计中的交互设计思想。","http://www.maiziedu.com/course/799/","http://www.maiziedu.com/uploads/course/2016/07/1_iMX6sCr.png","end","8003","交互设计之高级进阶","vip"
+"ui & 平面","通过一个门户网站首页的UI设计，带领大家体验从草图原型、交互设计，到各个模块制作，最后修改完工等过程。完整经历做一个门户站页面效果的操作流程，以了解webUI这项工作涉及的各项技术要领。学完该课程，学员能够熟悉常规的web页面制作流程，能够独立、规范地做出网页效果图。","http://www.maiziedu.com/course/811/","http://www.maiziedu.com/uploads/course/2016/06/mhwzxmsx.png","on","6405","门户网站实训","normal"
+"ui & 平面","我们要知道不管你技术学的如何的好,最终都是为了创作一幅优秀的作品，如果你没有一个很好的审美,做出来的东西往往缺少了“点睛”的地方！将PS这个软件的3大体系的知识给大家做一个完整的讲解，基础知识篇、常用工具篇、使用技巧篇，让你分分钟玩转PS创意。","http://www.maiziedu.com/course/845/","http://www.maiziedu.com/uploads/course/2016/07/1_o7MD1BK.png","end","12353","PS入门基础","normal"
+"ui & 平面","工欲善其事，必先利其器！亲爱的UI设计师们，是时候抛弃繁琐沉重的PS了！最新矢量绘图应用Sketch来了！让UI设计更加方便，帮你节省1/3的工作时间！Sketch容易理解并上手简单，有经验的设计师花上几个小时便能将自己的设计技巧在Sketch中自如运用。对于绝大多数的数字产品设计，Sketch 都能替代Adobe Photoshop，Illustrator 和 Fireworks。","http://www.maiziedu.com/course/858/","http://www.maiziedu.com/uploads/course/2016/07/2.png","on","8281","Sketch软件入门","normal"
+"ui & 平面","让学员学会使用ai来实现各种logo图形的设计。可以使用ai软件做图形创意设计、logo设计、icon设计等。","http://www.maiziedu.com/course/868/","http://www.maiziedu.com/uploads/course/2016/08/ai.jpg","end","6183","AI软件学习","normal"
+"ui & 平面","•  利用AI软件完成矢量绘制部分的工作
+•  利用PS软件完成效果图的设计
+• 讲解专业设计理念的一些知识","http://www.maiziedu.com/course/834/","http://www.maiziedu.com/uploads/course/2016/07/1_HSdKj0N.png","end","4327","应用VI设计（上）","normal"
+"ui & 平面","•  利用AI软件完成矢量绘制部分的工作
+•  利用PS软件完成效果图的设计
+• 讲解专业设计理念的一些知识","http://www.maiziedu.com/course/837/","http://www.maiziedu.com/uploads/course/2016/07/vi2.png","end","3626","应用VI设计（下）","normal"
+"ui & 平面","通过本套平面设计应用VI设计课程的学习，可以了解吉祥物设计的思路、方法，以及如何用设计软件illustrator实现矢量的吉祥物设计稿。","http://www.maiziedu.com/course/841/","http://www.maiziedu.com/uploads/course/2016/07/1_3GD9wCj.png","end","3294","应用VI设计-卡通形象设计","normal"
+"ui & 平面","通过讲解初识平面设计中字体设计的相关知识，让你掌握艺术字体的设计技巧，并且可以做到根据自己的名字进行字体设计。","http://www.maiziedu.com/course/863/","http://www.maiziedu.com/uploads/course/2016/08/vi2.png","end","2966","基础VI设计（中）","vip"
+"ui & 平面","本套平面设计之基础VI设计课程，通过系统学习色彩搭配相关知识，使学习者了解设计色彩，掌握艺术字体的配色原则，并且全面掌握视觉识别系统的综合性应用。","http://www.maiziedu.com/course/876/","http://www.maiziedu.com/uploads/course/2016/08/vix.png","end","3276","基础VI设计（下）","vip"
+"ui & 平面","通过实战案例，让学生了解并掌握PhotoShop基本操作，让学生能够使用PhotoShop完成基本的平面设计、网页设计、广告设计等设计类项目，同时为学生晋升高级UI打下坚实的基础。","http://www.maiziedu.com/course/705/","http://www.maiziedu.com/uploads/course/2016/04/PhotoShop-sz.png","end","39514","PhotoShop实战","normal"
+"ui & 平面","图标是UI的重要组成部分之一，随着扁平化发展的趋势，图标的简洁和表达的含义也越来越被人注重。本次课程先从理论上来聊聊图标的基础知识，希望大家对IOCN设计能有更深的理解。","http://www.maiziedu.com/course/723/","http://www.maiziedu.com/uploads/course/2016/07/1_lg4sljH.png","end","13448","图标理论基础","normal"
+"ui & 平面","本套课程主要讲解移动端UI设计规范，分IOS和安卓两种系统。让学员了解它们的设计规范和制作方法，并学会制作和包装出自己的一套APP作品","http://www.maiziedu.com/course/727/","http://www.maiziedu.com/uploads/course/2017/04/UIshejiguifan.png","end","36605","移动UI设计规范","normal"
+"ui & 平面","随着我国互联网行业迅猛发展，互联网公司中不同职位的界定愈发清晰，对员工的专业能力需求也愈发突出，Axure RP7是行业中最知名的原型设计工具之一，熟练使用Axure是成为UX设计师甚至产品经理的先决条件。
+本视频通过真实案例，循序渐进的帮助你学习掌握Axuer。","http://www.maiziedu.com/course/728/","http://www.maiziedu.com/uploads/course/2016/04/jhsj-yxsj.jpg","end","32615","交互设计之原型设计","vip"
+"ui & 平面","如果你想进入到设计这个行业，那你的第一步就是了解图形图像相关的基础知识。如果你已经是一个设计师，那就更应该系统全面的整理有关图形图像设计相关的基本概念。本次课程将为你全面的介绍图像格式、分辨率和像素、以及色彩设计的相关知识。帮助你入门设计，成为一个理论实践一手抓的优秀设计师。","http://www.maiziedu.com/course/729/","http://www.maiziedu.com/uploads/course/2017/04/imagebase.png","end","34345","图形图像基础","vip"
+"ui & 平面","通过本课程，学员可以掌握CS软件界面设计理论，设计流程、沟通技巧等知识点，通过大量的案例分析对比，对CS软件界面设计有一个整体的认知。
+学习之后，学员基本能够掌握CS软件界面的设计方法，对于将来的项目很容易上手。
+","http://www.maiziedu.com/course/731/","http://www.maiziedu.com/uploads/course/2016/04/csrjjmsj.png","end","9365","CS软件界面设计","vip"
+"ui & 平面","本课以”MaiYa”电商APP为案例，讲解实际项目电商APP的UI设计和设计流程，目标是学会独立分析项目，了解APP交互设计的原理，掌握独立完成企业级应用项目的技能。","http://www.maiziedu.com/course/735/","http://www.maiziedu.com/uploads/course/2016/04/dsrj-APP.png","end","11067","电商软件APPUI设计","vip"
+"ui & 平面","  不管你是设计小白，还是准备转行深入学习的新手，基础理论都是你以后发挥创造的基石。本门课程带领学员了解UI设计行业的整体概念，熟悉UI设计行业细分所属基础理论，真正掌握UI设计理念。学以致用，有效提高对设计理念及方法的运用。","http://www.maiziedu.com/course/738/","http://www.maiziedu.com/uploads/course/2016/04/Ui1.png","end","24073","UI设计理论基础","vip"
+"ui & 平面","在UI设计中，我们使用AI这一矢量工具软件，制作效果图，banner，图标绘画等，本次学习主要通过一些教学示例来掌握AI 的基本操作，和了解设计创作过程中，需要注意的细节和技巧。
+","http://www.maiziedu.com/course/739/","http://www.maiziedu.com/uploads/course/2016/04/AI.png","end","17169","AI基础操作和实例","vip"
+"ui & 平面","通过本课程，可以让学员们了解动效设计的原理，并掌握基础交互动画设计，以及能够独立完成交互动画；最后在项目中能熟练使用Adobe After Effects，为团队带来价值。","http://www.maiziedu.com/course/740/","http://www.maiziedu.com/uploads/course/2016/04/dxsj.png","end","13458","AE动效设计概论和实操","vip"
+"ui & 平面","带你了解手机主题设计的发展前景，介绍相关几大设计模块，熟悉掌握手机主题设计的流程、思路和设计原则。","http://www.maiziedu.com/course/742/","http://www.maiziedu.com/uploads/course/2016/04/ydUIsjsz.png","end","9851","移动UI设计实战","vip"
+"ui & 平面","图标是UI的重要组成部分之一，随着扁平化发展的趋势，图标的简洁和表达的含义也越来越被人注重。本次课程整理了一些常见图标的设计实例教程，希望大家对课程的学习来了解图标设计的一般步骤和过程，从而对图标设计有更深层的了解。","http://www.maiziedu.com/course/745/","http://www.maiziedu.com/uploads/course/2016/04/tbsz.png","end","9147","图标实战","normal"
+"ui & 平面","课程描述：这是一门实用sketch设计界面的实践任务，目标是了解UI设计，提高效率，熟练应用sketch，让你专注于UI设计的核心。","http://www.maiziedu.com/course/748/","http://www.maiziedu.com/uploads/course/2017/04/Sketch.png","on","35206","玩转sketch","vip"
+"ui & 平面","清楚一款新闻APP诞生前后，作为一个设计师所起到的作用以及在这个APP诞生的过程中设计师需要掌握的一些设计技能和产品思维方式。","http://www.maiziedu.com/course/750/","http://www.maiziedu.com/uploads/course/2016/04/app.png","end","12365","新闻类APP项目设计","vip"
+"ui & 平面","如果说UI设计是近期最火热的职业，那么交互设计便是UI设计师的核心竞争力。在此课程中，同学们将接触到一线互联网公司的交互设计流程，了解交互设计原则，真正掌握用户体验的含义。学以致用，有效地提高对产品及需求的理解。","http://www.maiziedu.com/course/756/","http://www.maiziedu.com/uploads/course/2016/07/1_ycYKnJQ.png","end","12329","交互设计基础","vip"
+"android应用开发","Android 是一个精美的软件平台，幕后含有许多设计招式，而且交互运用，形成极为精致的架构设计。Android 就像一匹马，如果你只想用它、骑它的话，本教程并非你的好选择。反之，如果你愿意摸它、陪它、爱它、欣赏它的话，则本教程就是你的最佳选择了。俗话说，外行人看热闹，内行人看门道。在本教程中，高老师把你视为准内行人，然后陪你去看Android的设计门道；而不只是陪你看看热闹而已。所谓门道，就是设计招式(或称为设计模式)，它蕴藏了深刻的创意和思路，也含有专家们屡试不爽的手艺和经验。一旦你拥有了创意、思路和手艺，你就迅速成为内行人了。","http://www.maiziedu.com/course/384/","http://www.maiziedu.com/uploads/course/2015/07/3.7安卓设计招式之美.jpg","end","23595","Android教程之设计招式之美","normal"
+"android应用开发","在开始学习Android底层嵌入式前要了解的一些概念","http://www.maiziedu.com/course/386/","http://www.maiziedu.com/uploads/course/2015/07/5.12Android嵌入式底层前言.jpg","on","8501","Android嵌入式底层前言","normal"
+"android应用开发","Google正式推出Android L后，便掀起了Android系统的新高潮！各种高端技术惊呆了小编！增强的用户中心，智能化用户认证，多任务功能，应用程序调用，亮瞎了开发者，麦子学院为了让大家了解Android L，专门拍摄了Nexus5真机操作讲解，让你快速掌握新技能。","http://www.maiziedu.com/course/387/","http://www.maiziedu.com/uploads/course/2015/07/三节课了解安卓L.jpg","on","4452","三节课了解Android L-你不得不听的技巧","normal"
+"android应用开发","在android学习过程中，项目开发是重点学习的内容之一，本章就将带领大家一起来进行android项目实战，用android程序开发、制作简易版的QQ，将前几个阶段学习的理论知识，充分在实践中重现。
+","http://www.maiziedu.com/course/455/","http://www.maiziedu.com/uploads/course/2015/07/3.9项目制作-简易版QQ.jpg","end","44734","项目制作-简易版QQ","normal"
+"android应用开发","从互联网到移动互联网，科技的发展经过一波又一波的浪潮。我们站在浪潮之颠思考未来。 物联网，一个颠覆性革命，已近在咫尺，面对蓝牙的连接，作为物联网的基础纽带，将为您打开这扇门。本将重点学习android蓝牙开发相关技术知识，让你在互联网、物联网的世界更加游刃有余。","http://www.maiziedu.com/course/469/","http://www.maiziedu.com/uploads/course/2015/07/5.6Android蓝牙开发-.jpg","end","27410","Android蓝牙开发","normal"
+"android应用开发","学完android编程理论知识，本阶段我们就开始了android项目实战，本章将主要为大家讲解android类似大众点评网项目的制作，让大家能充分掌握项目实战的经验技巧和相关关键知识点。","http://www.maiziedu.com/course/481/","http://www.maiziedu.com/uploads/course/2015/07/5.13项目实战二android类似大众点评网项目.png","end","112984","项目实战二：android类似大众点评网项目","vip"
+"android应用开发","在完成了android基础篇学习以后，我们不禁会去思考，一个商业级别的Android APP项目还会要求我们具备怎样的能力？我们又该如何去掌握并且运用这些能力？本系列android项目实战视频将带领大家完成一个商业级别的APP项目，解决项目中遇见的实际问题，帮助大家成为一个合格的android开发工程师。","http://www.maiziedu.com/course/484/","http://www.maiziedu.com/uploads/course/2015/07/5.14android项目实战-汽车门户APP.png","end","116080","android项目实战-汽车门户APP ","vip"
+"android应用开发","做嵌入式驱动开发，我们不仅要掌握过硬的硬件开发相关知识，也要掌握过硬的软件开发相关知识，本章麦子学院的小刚老师就将带领大家一起探索Android底层开发相关知识，我们一起来学习吧。
+","http://www.maiziedu.com/course/485/","http://www.maiziedu.com/uploads/course/2015/07/5.4探索安卓底层开发_PFSnyqJ.jpg","end","41979","（选修课）探索Android底层开发","normal"
+"android应用开发","本课程主要是讲蓝牙的一些基本应用、部分函数及其部分硬件资源的应用，通过对基本的寄存器操作，了解并深化对蓝牙寄存器的操作。主要涉及输入输出控制、串口通信、模数转换、定时器中断以及蓝牙广播等。通过这些内容，可使基本了解蓝牙的工作原理以及协议栈。","http://www.maiziedu.com/course/490/","http://www.maiziedu.com/uploads/course/2015/07/2.2更新中物联网基础_之_蓝牙4.0_BLE基础.png","end","21516","物联网基础 之 蓝牙4.0 BLE基础","normal"
+"android应用开发","这是一门Android HAL编码的项目实战课程，目标是通过HAL设计方式分析，代码实战，让你学会用系统架构师的方式来思考和设计。","http://www.maiziedu.com/course/496/","http://www.maiziedu.com/uploads/course/2015/07/5.6实现自己的HAL.jpg","end","11082","Android HAL编程实战 - 实现自己的HAL","normal"
+"android应用开发","Android Studio是Google最新推出的高效Android开发工具，本课程将教会您使用最新的Android Studio开发工具，并且能够快速的从Eclipse迁移到Android Studio。
+","http://www.maiziedu.com/course/504/","http://www.maiziedu.com/uploads/course/2015/07/1.2android-studio.jpg","end","125362","Android Studio","vip"
+"android应用开发","通过前面基础课的学习，本课程主要是针对前面已有的蓝牙知识基础，进行项目实战进阶式开发，开发项目包括智能灯泡与万能遥控器，以及对防丢器与ibeacon开发的引导式介绍。通过本课程，可以让你学到贯穿整个项目开发的全部阶段的内容。学了本课程，可以让你独立开发基于普通单片机以及蓝牙等系列的产品。本课程中，会加入一些国产单片机的内容，内容充实，学完直接可以上岗就业，进公司就可高薪。 ","http://www.maiziedu.com/course/541/","http://www.maiziedu.com/uploads/course/2015/08/蓝牙4.0BLE开发---智能灯泡万能遥控器.jpg","end","14401","蓝牙4.0BLE开发---智能灯泡+万能遥控器 ","normal"
+"android应用开发","android 5.0 是Google历年来改动最大的版本，带来了全新的用户体验与功能提升，本课程将给大家介绍android 5.0中最炫的Material Design的实现方法及部分重要的API使用。","http://www.maiziedu.com/course/547/","http://www.maiziedu.com/uploads/course/2015/09/Android5.05.1的新特性.jpg","end","32701","Android5.0/5.1新特性","normal"
+"android应用开发","本课程通过结合实例代码来分析Android是怎么由应用一步步到底层的，以把Android OS纵向地串接起来。同时会把学习的思路融入课程，让你不仅仅知道答案是什么，更进一步知道怎么去获取答案。
+
+在课程结束的时候你将知道从应用到底层分别是什么样的，以及是怎么一层层下来的。可以让你对整个Android系统有个直观的认识，为日后根据个人兴趣选择进入Android各层开发打下基础。","http://www.maiziedu.com/course/551/","http://www.maiziedu.com/uploads/course/2015/09/从顶层到底层.jpg","end","23153","Android层次分析 –从顶层到底层","normal"
+"android应用开发","本课程为android应用企业级即时通讯开发框架基础，完成该android实战课程后，可以达到以下目标：
+1 、掌握 xmpp协议基础知识 ；
+2 、能独立安装、配置openfire 环境； 
+3 、能独立开发、部署 基于openfire+smack Android IM应用；","http://www.maiziedu.com/course/584/","http://www.maiziedu.com/uploads/course/2015/10/openfiresmack-Android-即时通讯应用开发.jpg","end","36179","Openfire+Smack Android 即时通讯应用开发","vip"
+"android应用开发","上层Java要调用底层的C/C++函数库必须通过Java的JNI来实现，本章我们将一起学习Android架构JNI的原理、接口、函数、设计等等，一起探索Android是如何通过JNI来实现Java对C/C++函数的调用的。","http://www.maiziedu.com/course/265/","http://www.maiziedu.com/uploads/course/2015/07/2.7android架构之JNI详解_gLi8KF4.png","end","17273","android架构之JNI详解","normal"
+"android应用开发","本章android架构设计得java线程，将从多个java纯种进入本地函数和本地线程进入java层两个方面进行详细的理论+实践学习，全面掌握java线程的运用。
+","http://www.maiziedu.com/course/266/","http://www.maiziedu.com/uploads/course/2015/07/2.8android架构之Java线程篇.png","end","8380","android架构之Java线程篇","normal"
+"android应用开发","Android架构历练的第二个阶段，框架原理及架构学习已告一段落，对于学习中存在的一些问题，本章将统一讲解，我们一起来看看吧。
+","http://www.maiziedu.com/course/267/","http://www.maiziedu.com/uploads/course/2015/07/2.9android架构之复习问题集.png","end","4431","android架构之复习问题集","normal"
+"android应用开发","麦子学院原创android架构核心服务课程，由android名师高焕堂老师主讲，带你打入android架构的核心区域。","http://www.maiziedu.com/course/268/","http://www.maiziedu.com/uploads/course/2015/07/3.1android架构之核心服务.png","end","6509","android架构之核心服务","normal"
+"android应用开发","Android架构开发的Proxy-Stub设计模式课程，将从Proxy-Stub设计模式的基本概念、Proxy-Stub设计模式实战练习、及其与其他Android架构重要接口的联系几个方面进行讲解，全让你轻松掌握框架通用性接口的设计。","http://www.maiziedu.com/course/269/","http://www.maiziedu.com/uploads/course/2015/07/3.2android架构之Proxy-Stub设计模式.png","end","8393","android架构之Proxy-Stub设计模式","normal"
+"android应用开发","Android的HAL是为了一些硬件提供商提出的“保护proprietary”的驱动程序而产生的，简而言之，就是为了避开linux kernel的GPL license的束缚，因此在Android架构的学习中，HAL学习也是非常有必要的，我们一起来学习吧。","http://www.maiziedu.com/course/270/","http://www.maiziedu.com/uploads/course/2015/07/3.3android架构之HAL.png","end","9426","android架构之HAL","normal"
+"android应用开发","android架构设计中，借鉴其他好的技术是必要的，本章就带领大家一起观摩Session模式与Proxy-Stub模式的搭配。","http://www.maiziedu.com/course/271/","http://www.maiziedu.com/uploads/course/2015/07/3.4android架构之观摩Session模式与Proxy-.png","end","5219","android架构之观摩Session模式与Proxy-Stub模式的搭配","normal"
+"android应用开发","android架构的设计离不开框架的设计，本章高焕堂老师将带领大家一起学习android架构的几个常用小框架，并和大家一起动手进行框架设计。
+","http://www.maiziedu.com/course/272/","http://www.maiziedu.com/uploads/course/2015/07/3.5android架构之几个组件框架的设计.png","end","12949","android架构之几个组件框架的设计","normal"
+"android应用开发","android架构的设计离不开对接口的设计，本章高焕堂老师就将带领大家一起学习接口设计相关知识及应用，共同领略android接口设计的美妙。","http://www.maiziedu.com/course/273/","http://www.maiziedu.com/uploads/course/2015/07/3.6android架构之接口设计之美.png","end","14333","android架构之接口设计之美","normal"
+"android应用开发","作为android架构师，不仅要精通android开发相关技术，同时还需具备商业思维、创业思维及一定的战略战术等等，本章我们就来具体看看Android A段架构师除了技术知识，还应该具体具备什么。","http://www.maiziedu.com/course/274/","http://www.maiziedu.com/uploads/course/2015/07/4.1Android_A段架构师应该具备什么.png","end","15730","Android A段架构师应该具备什么","normal"
+"android应用开发","android架构师不仅要有过硬的android开发技术，还需要具备本章课程中讲到的十个步骤，至于这十个步骤具体是什么，我们一起来看看下面的android架构设计课程吧。","http://www.maiziedu.com/course/341/","http://www.maiziedu.com/uploads/course/2015/07/4.2架构师的成长的十个步骤_qVYXYb9.png","end","10107","架构师的成长的十个步骤","normal"
+"android应用开发","Java 基础是Java  web开发的基础语言，本节课程将围绕Java编程介绍Java的基本语法、变量、流程控制、修饰符、修饰符、继承、抽象、接口、数组、异常等基础知识，让你快速入门并精通Java语言。","http://www.maiziedu.com/course/348/","http://www.maiziedu.com/uploads/course/2015/07/2.1Java_语言基础.png","end","93104","Java 语言基础","normal"
+"android应用开发","本章主要是android高级ui设计之fragment学习，主要介绍android fragment的应用场景、项目创建、替换、移除、实战等等系列操作，让初学者不仅能对fragment的理论知识有一个清晰的认识，同时还让其能掌握fragment相关实战应用，知其然还知其所以然。","http://www.maiziedu.com/course/377/","http://www.maiziedu.com/uploads/course/2015/07/3.7Android_高级Ui之fragment.png","end","55052","Android 高级Ui之fragment","vip"
+"android应用开发","android高级ui设计课程，涵盖android ui系统控件、第三方控件等高级UI一切控件的使用方法，并从实战方面进行详细剖析，增强大家对android 高级ui的了解与掌握，设计出更完美的android界面。
+
+","http://www.maiziedu.com/course/378/","http://www.maiziedu.com/uploads/course/2015/07/3.8.-Android-高级UI.jpg","end","66428","Android 高级Ui","vip"
+"android应用开发","因为有些Android架构师的对象技术(OOP: Object-Oriented Programming)的底子并不足以应付以应用框架(Application Framework)为基础的新型软件开发模式。因此，高焕堂老师特别针对Android应用框架背后的面向对象观念和技术，进行有系统的完整介绍，期待它能陪伴Android开发者迅速、顺利地发挥Android的巨大潜能。 
+    本课程由浅入深，依序介绍OOP的各项观念，以及它对应到Java的语言机制，然后以实例说明它在Android应用框架里的角色和应用情形。所以，几乎每一章都包含三个部分： 
+     1) 一项OOP观念和技术之介绍。 
+     2) 以Java程序来说明它的应用。   
+     3) 以Android程序说明它的应用。 
+ 
+    由于Android是一个基于OOP的应用框架，其中面向对象技术的运用非常多，活用技巧也很精湛。","http://www.maiziedu.com/course/382/","http://www.maiziedu.com/uploads/course/2015/07/1.4安卓面向对象技术.jpg","end","30367","Android面向对象技术","normal"
+"android应用开发","学习Android的中社会化分享技术的实现，包括：各大平台官方实现、第三方框架实现，社会化分享数据统计。","http://www.maiziedu.com/course/67/","http://www.maiziedu.com/uploads/course/2015/07/5.7.-Android-社会化分享.jpg","end","24313","Android 社会化分享","normal"
+"android应用开发","随着移动互联网的不断发展，Android开发成为了大多数程序员选择的对象，但是非常多的人都是半路出家，根本就不明白Android开发其中的一些原理以及实现的方法，只是能够片面性的运用别人写好的代码。
+因此：本套视频教程将从实践的角度带你学习Android推送的知识。在使用中理解Android推送的原理。通过对Android推送基本原理的了解，进一步的熟悉三方平台推送库，从更多的方面理解和学习Android的推送。
+","http://www.maiziedu.com/course/68/","http://www.maiziedu.com/uploads/course/2015/07/5.8.-Android-消息推送.jpg","end","24012","Android 消息推送","normal"
+"android应用开发","本课程学习Android中LBS定位技术的实现。","http://www.maiziedu.com/course/69/","http://www.maiziedu.com/uploads/course/2015/07/5.9.-Android-定位系统-LBS.jpg","end","27039","Android 定位技术 LBS","normal"
+"android应用开发","本课程学习Android的NDK和JNI的技术使用。","http://www.maiziedu.com/course/70/","http://www.maiziedu.com/uploads/course/2015/07/5.10.-Android-NDK初步.jpg","end","15395","Android NDK 初步","normal"
+"android应用开发","本课程学习Android中电话和短信的使用。","http://www.maiziedu.com/course/71/","http://www.maiziedu.com/uploads/course/2015/07/5.11.-Android-电话与短信应用.jpg","end","10854","Android 电话与短信应用","normal"
+"android应用开发","本课程学习Android中Launcher和Widget的使用。","http://www.maiziedu.com/course/72/","http://www.maiziedu.com/uploads/course/2015/07/5.12.-Android-Launcher--Widget.jpg","end","20010","Android Launcher & Widget","normal"
+"android应用开发","本章主要由麦子学院Android资深名师高焕堂老师，为大家讲解android架构师需要掌握的OOP知识及其架构分析，为想成为Android架构师的你奠定基础。","http://www.maiziedu.com/course/256/","http://www.maiziedu.com/uploads/course/2015/07/1.1android架构师需要掌握的OOP及架构分析.png","end","21012","android架构师需要掌握的OOP及架构分析","normal"
+"android应用开发","EIT造形是一种基本的结构(Structure)，一种概念(Concept)，是Android架构师常用技术之一，本章高焕堂老师将为你详细讲解EIT造形相关应用，让我们一起探索单一造形所创造出来的整体之美。","http://www.maiziedu.com/course/257/","http://www.maiziedu.com/uploads/course/2015/07/1.2android架构之EIT介绍.png","end","10611","android架构之EIT介绍","normal"
+"android应用开发","麦子学院原创android架构之设计模式课程，全面讲解Android架构设计中的常用模式，与初入门架构设计的你一起探索Android领域。","http://www.maiziedu.com/course/258/","http://www.maiziedu.com/uploads/course/2015/07/1.3android架构之设计模式介绍.png","end","11535","android架构之设计模式介绍","normal"
+"android应用开发","要想成为一名android架构师，认识android框架非常有必要，通过本章学习，你将可全面掌握android 的java应用层框架。
+","http://www.maiziedu.com/course/259/","http://www.maiziedu.com/uploads/course/2015/07/2.1android架构之认识框架.png","end","9834","android架构之认识框架","normal"
+"android应用开发","android中的IPC的基本模型是基于客户/服务器(C/S)架构的，学习本章麦子学院原创IPC架构课程，将使你对IPC架构有更全新的认识，同时对相关知识的掌握度也更加深入。","http://www.maiziedu.com/course/260/","http://www.maiziedu.com/uploads/course/2015/07/2.2android架构之认识进程与IPC架构.png","end","8196","android架构之认识进程与IPC架构","normal"
+"android应用开发","线程是android架构中常用的重要模式之一，也是android架构师必须掌握的技术之一，本章就由麦子学院的高焕堂老师带大家一起来认识认识什么是android架构的线程模式。","http://www.maiziedu.com/course/261/","http://www.maiziedu.com/uploads/course/2015/07/2.3android架构之认识线程模式.png","end","8586","android架构之认识线程模式","normal"
+"android应用开发","android架构设计中，架构很重要，UI也同样重要，通过学习本章UI框架及多线程相关知识，将助你设计出更完美的android界面。
+","http://www.maiziedu.com/course/262/","http://www.maiziedu.com/uploads/course/2015/07/2.4android架构之UI框架及多线程.png","end","8996","android架构之UI框架及多线程","normal"
+"android应用开发","AIDL与Proxy-Stub设计模式是android架构的另一个重要技术，学习此课程，将使你更全面的掌握android架构设计所需相关技能技巧。","http://www.maiziedu.com/course/263/","http://www.maiziedu.com/uploads/course/2015/07/2.5android架构之AIDL与Proxy-Stub设计模.png","end","7497","android架构之AIDL与Proxy-Stub设计模式","normal"
+"android应用开发","本章android架构设计的IBinder与IMessager接口，麦子学院遵循敏捷的迭代过程，从思想、方法、模式、范例和成功案例各种不同角度，带你学习从设计到代码的途径，让你迅速熟悉并能熟练使用这两个接口。
+","http://www.maiziedu.com/course/264/","http://www.maiziedu.com/uploads/course/2015/07/2.6android架构之IBinder与IMessager.png","end","5794","android架构之IBinder与IMessager","normal"
+"ios应用开发","Cocos2d开发语言Objective-C语法重难点分析。","http://www.maiziedu.com/course/238/","http://www.maiziedu.com/uploads/course/2015/07/2.1Cocos2d开发语言Objective-C语法重难点.png","end","7396","Cocos2d开发语言Objective-C语法重难点分析","normal"
+"ios应用开发","本章主要是iOS开发中，学习UIKit表格相关知识，掌握集合和控制器的原理，深入理解iOS UI组件的使用技能、技巧。","http://www.maiziedu.com/course/275/","http://www.maiziedu.com/uploads/course/2015/07/2.2UIKit-表格集合和控制器.png","end","83648","UIKit-表格，集合和控制器","normal"
+"ios应用开发","IOS多点触控与手势识别","http://www.maiziedu.com/course/346/","http://www.maiziedu.com/uploads/course/2015/07/2.4OS多点触控与手势识别.png","end","22998","IOS多点触控与手势识别","normal"
+"ios应用开发","本章主要是IOS动画编程相关知识的学习，主要介绍了UIViewAnimation基础、视图、动画等相关知识，通过趣味讲解+实战练习，让初学者能快速掌握iOS动画相关知识。","http://www.maiziedu.com/course/416/","http://www.maiziedu.com/uploads/course/2015/07/WME70EQZ944343HS9ES.jpg","end","33085","IOS动画编程","normal"
+"ios应用开发","本章主要是swift项目实战学习，主要学习iOS网络音乐播放器第三方控件的使用、混编及基础界面的实现，将前期所学的swift语言理论知识，学以致用，深化知识点的掌握。
+","http://www.maiziedu.com/course/475/","http://www.maiziedu.com/uploads/course/2015/07/4.2ios音乐播放器.jpg","end","30077","Swift项目：网络音乐播放器 ","normal"
+"ios应用开发","在完成了android基础篇学习以后，我们不禁会去思考，一个商业级别的Android APP项目还会要求我们具备怎样的能力？我们又该如何去掌握并且运用这些能力？本系列android项目实战视频将带领大家完成一个商业级别的APP项目，解决项目中遇见的实际问题，帮助大家成为一个合格的android开发工程师。","http://www.maiziedu.com/course/484/","http://www.maiziedu.com/uploads/course/2015/07/5.14android项目实战-汽车门户APP.png","end","116080","android项目实战-汽车门户APP ","vip"
+"ios应用开发","小波赌大小","http://www.maiziedu.com/course/493/","http://www.maiziedu.com/uploads/course/2015/07/4.4Swift项目小波赌大小.png","end","11786","阶段项目：小波赌大小","normal"
+"ios应用开发","Objective-C开发语言是扩充C的面向对象编程语言，iOS开发是用的Objective-C语言，本专题更系统的讲解Objective-C开发语言当中的一些要点，包括面向对象概念、基本语法、类和对象的关系、类的封装、构造析构函数、self指针、点语法、Category语法、基本数据结构(NSString、NSArray、NSDictionary、NSNumber、NSSet、NSValue、NSData)、继承(基本概念、重写、虚方法)、内存管理(黄金法则、retain点语法、MyArray、AutoreleasePool、浅拷贝详述、深拷贝详述、)、设计模式(单例设计模式、单例各种写法、通知中心、Blocks语法、KVO、KVC)、文件操作(NSManager、NSFIleHandle、归档)等内容。  ","http://www.maiziedu.com/course/495/","http://www.maiziedu.com/uploads/course/2015/07/1.2oc语法课程.jpg","end","99543","初始Objective-C","normal"
+"ios应用开发","这是一门Swift编程的项目实战课程，目标是让你把swift语言相关知识从“知道”变成“应用”，让你从“会编程”过渡到“会做项目”，让你学会用iOS开发工程师的方式来思考和设计。","http://www.maiziedu.com/course/501/","http://www.maiziedu.com/uploads/course/2015/07/4.5OC项目新闻阅读器APP.jpg","end","72692","OC项目：新闻阅读器APP","normal"
+"ios应用开发","本章主要是objective-c项目实战之驾照助手的学习与开发，主要从OC项目的设计、项目搭建、项目处理及项目功能实现方面进行学习，让iOS学习者能快速将之前所学的objective-c编程语言的基础知识运用于实践中。","http://www.maiziedu.com/course/502/","http://www.maiziedu.com/uploads/course/2015/07/课程封面_cZq7Npy.png","end","50022","oc项目：驾照助手","normal"
+"ios应用开发","本课程会学到扩展开发的概念以及每一种扩展提供的功能所适用的范围,加深对app之间的交互的理解,从而对自身app所提供的服务的完善。简化一些功能的开发并激发出创意.","http://www.maiziedu.com/course/505/","http://www.maiziedu.com/uploads/course/2015/07/5.1iOS8新特性-扩展extension开发-.jpg","end","13327","iOS8新特性 扩展(extension)开发","normal"
+"ios应用开发","这是一门swift编程的项目实战课程，目标是让你把所学的swift语言理论付诸于实践，让你不仅能设计iOS APP，更让你知道如何去实现APP，培养你iOS工程师的思考和设计方式。","http://www.maiziedu.com/course/512/","http://www.maiziedu.com/uploads/course/2015/08/swift编程项目实战_.jpg","end","14448","swift编程项目实战 – 解锁的设计与实现","normal"
+"ios应用开发","这是iOS项目实战中介绍团购项目的实践课程，通过该iOS实战课程，你将学会如何来进行iOS项目设计，界面定制及转场动画，多线程操作，地理定位，新浪微博SSO授权登录，本地数据缓存，了解OAuth2.0技术等。","http://www.maiziedu.com/course/514/","http://www.maiziedu.com/uploads/course/2015/08/iOS团团赚项目.jpg","end","33058","ios团团赚项目","normal"
+"ios应用开发","AngularJS是Google开发的纯客户端JavaScript技术的WEB框架,用于扩展、增强HTML功能,它专为构建强大的WEB应用而设计。本课程循序渐进全面介绍AngularJS在Web App中的使用，适合前端工程师，Web开发工程师，Web移动开发人员。","http://www.maiziedu.com/course/567/","http://www.maiziedu.com/uploads/course/2015/09/使用Angular-js开发Web-App.jpg","end","33870","使用Angularjs开发Web App","vip"
+"ios应用开发","这是一门介绍打车项目的iOS开发实践课程，通过该iOS项目实战课程你将学会如何来进行项目设计，界面定制及视频播放，iOS多线程操作，LBS服务，实时位置更新，了解移动支付等，将之前所学的iOS理论知识，灵活运用于项目实践中。","http://www.maiziedu.com/course/595/","http://www.maiziedu.com/uploads/course/2015/11/4.5移动打车App.jpg","end","43497","移动打车App","normal"
+"嵌入式&物联网","本课程结合一定的应用场景讲授zigbee技术的原理、开发过程、开发方法及开发过程的硬件和软件分析，通过本课程的学习，能较快地进入到与zigbee相关地相对比较复杂的物联网底层项目的开发。","http://www.maiziedu.com/course/820/","http://www.maiziedu.com/uploads/course/2016/07/1_mzVaanT.png","end","5508","zigbee大型项目","vip"
+"嵌入式&物联网","本课程是无人机项目的先导课程。课程使用的开发板包含无人机所需的基础知识，包括直流电机控制，pid算法，wifi通讯，2.4G无线通讯，3轴陀螺仪的使用等等。学完本课程后，学员将掌握直流电机速度控制，无线通讯，从传感器获取姿态等技能，为进入无人机实际飞行做好准备。","http://www.maiziedu.com/course/822/","http://www.maiziedu.com/uploads/course/2016/06/wurenji.png","end","8074","无人机项目","vip"
+"嵌入式&物联网","本课程是基于RFID的智能门禁系统实战项目。我们将从系统角度总体设计，然后向下分解任务，细化实现，最终模拟一个实际的门禁系统。在本课程中，我将和大家一起经历从嵌入式软硬件系统到PC桌面程序及数据库的相关操作，培养学员的系统性设计思维和应用实践能力。","http://www.maiziedu.com/course/871/","http://www.maiziedu.com/uploads/course/2016/08/zhinengmenjin.png","end","5987","智能门禁系统","vip"
+"嵌入式&物联网","基于SCCB总线的摄像头，使用FIFO芯片缓冲数据。以照相机项目为例，学习摄像头初始化、采集数据、保存数据。","http://www.maiziedu.com/course/892/","http://www.maiziedu.com/uploads/course/2016/09/11.png","end","4949","物联小项目—ov7670摄像头","vip"
+"嵌入式&物联网","智能产品开发大牛良心出品，只为你“拥有一款外观酷炫，功能强大，预算不超20元的VR眼镜”。   ——想老师手把手教，做出梦想的智能产品。马上参加物联网企业直通班！  ——————————————猛戳“在线咨询”客服，并发送暗号：“我要报班领神器”   就能获得“报班就送物联网开发板一套”资格 ——马上发暗号吧！","http://www.maiziedu.com/course/919/","http://www.maiziedu.com/uploads/course/2016/09/111.png","end","4910","如何只花20元做出一款酷炫的VR眼镜？","vip"
+"嵌入式&物联网","作为一名从事于电子行业的工作人员，要学的东西有很多，数字电路、模拟电路、单片机等理论知识，甚至包括焊接基本功以及万用表、示波器的工具使用等，当然学习绘制电路板图也是必不可少的一项基本技能。
+本套视频教程将从实践角度教你学习如何绘制电路板图。本课程依托AD9软件，让你轻松学会原理图绘制，PCB设计，以及原件库建立，并解决新手常见问题。","http://www.maiziedu.com/course/920/","http://www.maiziedu.com/uploads/course/2016/10/12.png","end","4886","AD9入门教程","vip"
+"嵌入式&物联网","C语言IDE工具使用","http://www.maiziedu.com/course/921/","http://www.maiziedu.com/uploads/course/2016/10/fmty.png","end","2571","C语言IDE工具使用","vip"
+"嵌入式&物联网","本课程主要是介绍数据结构编程实战相关内容，帮助大家快速将之前所学的理论知识应用于实战。","http://www.maiziedu.com/course/922/","http://www.maiziedu.com/uploads/course/2017/08/webwxgetmsgimg.jpg","end","3457","数据结构编程实战","vip"
+"嵌入式&物联网","基于stm32和各类传感器的综合项目，充分利用所学知识，结合自身思维拓展出完整的智能家居系统。本项目在于知识的综合利用，以及学生的逻辑思维能力。结合手机客户端和LCD显示端，实现真正的智能。","http://www.maiziedu.com/course/896/","http://www.maiziedu.com/uploads/course/2016/09/znjj.png","end","6602","物联网智能家居","vip"
+"嵌入式&物联网","学习嵌入式开发，不仅要学习嵌入式开发相关的理论知识、能运用这些知识进行实战开发，还需要清楚面试过程中，企业一般都问些哪些问题，这样才能更顺利的进入理想企业。本阶段，我们为大家介绍的就是面试中，数据结构相关面试题的集锦，助你面试更加顺利。
+","http://www.maiziedu.com/course/508/","http://www.maiziedu.com/uploads/course/2015/07/数据结构面试题.jpg","on","17078","数据结构面试题","normal"
+"嵌入式&物联网","这是一门Linux shell 编程与实践的课程，大家不但能够接触到linux shell编程的基础课程，而且可以更广泛的了解目前主流互联网公司中用到的shell编程的实际案例，让学生不只是停留在对基础知识的学习上，更发散学生的思维与视野，通过多方面能力解决工作中遇到的实际问题。","http://www.maiziedu.com/course/529/","http://www.maiziedu.com/uploads/course/2015/08/课程封面.png","end","26051","Linux SHELL编程与实践","vip"
+"嵌入式&物联网","Cortex-M系列CPU初级实验（2）：CPU世界和外界的桥梁---串口编程及应用
+","http://www.maiziedu.com/course/530/","http://www.maiziedu.com/uploads/course/2015/08/桥梁.jpg","end","6881","Cortex-M系列CPU初级实验（2）：CPU世界和外界的桥梁---串口编程及应用","normal"
+"嵌入式&物联网","Cortex-M系列CPU初级实验（3）：CPU世界的守护者和计时器---看门狗和定时器编程及应用
+","http://www.maiziedu.com/course/531/","http://www.maiziedu.com/uploads/course/2015/08/守护者.jpg","end","6012","Cortex-M系列CPU初级实验（3）：CPU世界的守护者和计时器---看门狗和定时器编程及应用","normal"
+"嵌入式&物联网","多线程和多进程，无论在嵌入式领域，还是应用开发领域，都是不可避免要设计和使用的。
+本套视频教程将从实践的角度带你深入理解什么是线程，什么是进程。如何更好的使用好多线程和多进程。","http://www.maiziedu.com/course/532/","http://www.maiziedu.com/uploads/course/2015/08/5.15linux进程概述.jpg","end","9557","linux进程概述","normal"
+"嵌入式&物联网","通过前面基础课的学习，本课程主要是针对前面已有的蓝牙知识基础，进行项目实战进阶式开发，开发项目包括智能灯泡与万能遥控器，以及对防丢器与ibeacon开发的引导式介绍。通过本课程，可以让你学到贯穿整个项目开发的全部阶段的内容。学了本课程，可以让你独立开发基于普通单片机以及蓝牙等系列的产品。本课程中，会加入一些国产单片机的内容，内容充实，学完直接可以上岗就业，进公司就可高薪。 ","http://www.maiziedu.com/course/541/","http://www.maiziedu.com/uploads/course/2015/08/蓝牙4.0BLE开发---智能灯泡万能遥控器.jpg","end","14401","蓝牙4.0BLE开发---智能灯泡+万能遥控器 ","normal"
+"嵌入式&物联网","物联网UCOS应用讲解—基于UCOS的联系人通讯录。 ","http://www.maiziedu.com/course/563/","http://www.maiziedu.com/uploads/course/2015/09/3.3物联网UCOS应用讲解基于UCOS的联系人通讯录.jpg","end","13715","物联网UCOS应用讲解—基于UCOS的联系人通讯录 ","normal"
+"嵌入式&物联网","电子产品在我们的生活中无处不在，并且随着科技的发展创新产品层出不穷。如果我们可以掌握一门技术，那么在电子产品的行业中，我们将是这个科技爆发时代的弄潮儿。
+本套视频教程主要是从硬件工程师的基础讲起，为零基础的学习者设置零门槛，带领大家学习基础知识的同时，引导大家从身边常见的电子产品中认识和实践各种电路。","http://www.maiziedu.com/course/566/","http://www.maiziedu.com/uploads/course/2015/09/电子基础元器件.jpg","end","25547","电子基础元器件","normal"
+"嵌入式&物联网","C语言及程序设计快速入门","http://www.maiziedu.com/course/571/","http://www.maiziedu.com/uploads/course/2015/09/C语言及程序设计.jpg","on","40119","C语言及程序设计快速入门","normal"
+"嵌入式&物联网","这是一门Linux的基础课程，目标是让你能够熟练使用和操作Linux系统，为在Linux系统上做程序开发和以后做Android底层开发打下坚实的基础。本课程以知识+实操的方式来讲授，使学生能够轻松快乐地掌握Linux操作系统的使用。","http://www.maiziedu.com/course/588/","http://www.maiziedu.com/uploads/course/2015/10/5.12Linux.jpg","end","101978","Linux操作系统基础（最新版）","vip"
+"嵌入式&物联网","进程，程序灵魂的载体，掌握了linux的进程及特性，以及他们之间的信息传递，将是成为一名合格的linux应用开发工程师必须的技能。","http://www.maiziedu.com/course/592/","http://www.maiziedu.com/uploads/course/2015/11/Linux进程间通信.jpg","end","39968","Linux进程间通信 ","normal"
+"嵌入式&物联网","这是一门智能硬件WIFI音响项目实战课程，目标是让初学者简单的步入WIFI硬件开发，让你从“硬件开发新手”过渡到“硬件开发项目”，让你明白硬件开发并非很难，只需了解原理动手DIY就可以实现。","http://www.maiziedu.com/course/616/","http://www.maiziedu.com/uploads/course/2015/11/wifi音响.jpg","end","9520","Wifi音响DIY","normal"
+"嵌入式&物联网","本课程以UCOS为基础，详细讲解基于UCOS的项目开发过程。学会使用UCOS开发物联网产品。","http://www.maiziedu.com/course/647/","http://www.maiziedu.com/uploads/course/2016/04/ucos.jpg","on","7468","Ucos商业实战项目","normal"
+"嵌入式&物联网","这是一门Linux内核移植课程的入门讲解，主要目的是了解内核移植过程及在移植中需要涉及的几个基本工具脚本的使用","http://www.maiziedu.com/course/695/","http://www.maiziedu.com/uploads/course/2016/04/Linux.jpg","on","13134","Linux内核移植入门","vip"
+"嵌入式&物联网","IIC设备驱动及子系统开发","http://www.maiziedu.com/course/765/","http://www.maiziedu.com/uploads/course/2016/04/IICsbqud.jpg","end","5738","IIC设备驱动及子系统开发","vip"
+"嵌入式&物联网","GUN是嵌入式应用开发常用工具，本章将由麦子学院资深嵌入式开发工程师，带你学习gnu开发基础，掌握gcc、gdb、makefile等技术。","http://www.maiziedu.com/course/388/","http://www.maiziedu.com/uploads/course/2015/07/1.6GUN工具简介.jpg","end","27331","选修课 - GNU工具简介","normal"
+"嵌入式&物联网","和工程实践紧密结合，课程中会讲述大量的工程知识和物联网开发经验，学成后相当于具备2年的嵌入式系统开发经验；通过本课程的对比讲解法（Cortex-M0，Cortex-M3，Cortex-M4进行对比讲解），可学习Cortex-M全系列（M1除外）CPU的开发，实现一个课程，学习多个系列CPU,包括Cortex-M0，Cortex-M3，Cortex-M4；课程门槛低，只需要有C语言基础，学生和在职人员均可无障碍学习；课程重视对学生的引导，培养学生自我学习的能力，主要教授学生能够独立的分析问题，设计代码，完成项目。
+","http://www.maiziedu.com/course/417/","http://www.maiziedu.com/uploads/course/2015/07/2.1CORTEX-M系列CPU.jpg","end","26387","零基础玩转Cortex-M系列CPU","normal"
+"嵌入式&物联网","本章主要是物联网开发中，Cortex-M系列CPU基础实战演练，通过本课程的学习，将掌握Cortex-M系列CPU的基本操作方式方法。
+
+","http://www.maiziedu.com/course/420/","http://www.maiziedu.com/uploads/course/2015/08/通道.jpg","end","11785","Cortex-M系列CPU初级实验（1）：CPU世界的出入通道---I/O编程及应用","normal"
+"嵌入式&物联网","本章是物联网开发中，Cortex-M系列CPU进阶实战操作演练，通过学习，可掌握Cortex-M系列CPU的高级应用开发方法，为物理网开发打下坚实基础。
+","http://www.maiziedu.com/course/422/","http://www.maiziedu.com/uploads/course/2015/07/3.2CORTEX-M系列CPU进阶.jpg","end","10915","Cortex-M系列CPU进阶实验","normal"
+"嵌入式&物联网","本章主要是嵌入式开发项目开发实战课程中linux系统下usb驱动的学习，主要围绕基本概念、移植方法、传输方式、鼠标驱动的进行详细介绍，全面剖析usb鼠标驱动的各种方法实现。","http://www.maiziedu.com/course/423/","http://www.maiziedu.com/uploads/course/2015/07/5.6_-----Linux-下usb驱动-.jpg","end","14101","linux下usb驱动","vip"
+"嵌入式&物联网","在Android、IOS风行的年代，在充斥浮躁、追求速成的年代，如果有一门语言值得我们去沉下心来好好研究，那它应该是C++。
+本套视频教程将从实践的角度带你学习C++。在使用中理解C++、理解面向对象思想。","http://www.maiziedu.com/course/432/","http://www.maiziedu.com/uploads/course/2015/07/1.1C面向对象编程.png","end","42439","C++面向对象编程","normal"
+"嵌入式&物联网","本章物联网车载系统应用实战，主要包括车内温湿度的采集、行车姿态的采集  、采集到的数据通过蓝牙发送到手机、对异常的数据进行报警等，将带你进入智能化车载应用时代。
+
+","http://www.maiziedu.com/course/466/","http://www.maiziedu.com/uploads/course/2015/07/4.1物联网感知端项目实战.jpg","end","16899","物联网车载应用实战","normal"
+"嵌入式&物联网","学习嵌入式驱动开发，我们不仅要掌握理论知识，还需要实践的积累，本章我们就带领大家一起来进行嵌入式驱动之智能家居的项目开发。","http://www.maiziedu.com/course/472/","http://www.maiziedu.com/uploads/course/2015/07/5.1嵌入式综合项目-智能家居-_Rc0KuZZ.jpg","on","22717","嵌入式综合项目-智能家居","normal"
+"嵌入式&物联网","Linux多线程技术，嵌入式开发常用技术之一，更好的利用资源，让你的程序相应更快，在多核时代，让你实现真正的并行。","http://www.maiziedu.com/course/478/","http://www.maiziedu.com/uploads/course/2015/07/2.3Linux多线程_hUYScRu.jpg","on","48071","Linux多线程编程","normal"
+"嵌入式&物联网","这是一门Linux网络编程的项目实战课程，目标是让你把知识从“知道”变成“应用”，让你从“会编程”过渡到“会做项目”，让你学会用嵌入式驱动开发工程师的方式来思考和设计。","http://www.maiziedu.com/course/479/","http://www.maiziedu.com/uploads/course/2015/07/5.2Linux网络编程项目实战_-_轻量级HTTP服务器_2gshcZR.jpg","end","44262","Linux网络编程项目实战 - 轻量级HTTP服务器","normal"
+"嵌入式&物联网","在Android、iOS风行的年代，在充斥浮躁、追求速成的年代，如果有一门语言值得我们去沉下心来好好研究，那它应该是C++。但是如果要找到一份好的工作也着实不易。
+本c++套视频教程将带你了解常见C++面试题目。在遇到自己喜欢的公司时能够抓住机会。
+","http://www.maiziedu.com/course/480/","http://www.maiziedu.com/uploads/course/2015/07/5.9C面试题-.jpg","end","21047","C++面试题","normal"
+"嵌入式&物联网","这是一门嵌入式Linux网络编程的基础课程，目标是让你从零开始学习网络编程，以及网络编程中的技巧运用，并能熟悉从网络基础中做更高层的开发。","http://www.maiziedu.com/course/482/","http://www.maiziedu.com/uploads/course/2015/07/2.4嵌入式Linux网络编程基础_MWClwim.jpg","end","44773","嵌入式Linux网络编程基础","normal"
+"嵌入式&物联网","嵌入式驱动开发包括硬件子系统和软件子系统两部分，Linux内核及文件系统属于软件子系统，本课程将主要对文件系统的构建与移植进行介绍，讲解如何选择、配置、移植与制作一个可用文件系统及其镜像，以及怎样配合Linux内核的配置来调整应用生成的文件系统，进而掌握构建完整嵌入式驱动软件子系统应用开发环境。
+","http://www.maiziedu.com/course/486/","http://www.maiziedu.com/uploads/course/2015/07/4.3linux内核及文件系统制作_Vabyz05.jpg","end","34305","Linux内核及文件系统制作","normal"
+"嵌入式&物联网","本课程主要是讲蓝牙的一些基本应用、部分函数及其部分硬件资源的应用，通过对基本的寄存器操作，了解并深化对蓝牙寄存器的操作。主要涉及输入输出控制、串口通信、模数转换、定时器中断以及蓝牙广播等。通过这些内容，可使基本了解蓝牙的工作原理以及协议栈。","http://www.maiziedu.com/course/490/","http://www.maiziedu.com/uploads/course/2015/07/2.2更新中物联网基础_之_蓝牙4.0_BLE基础.png","end","21516","物联网基础 之 蓝牙4.0 BLE基础","normal"
+"嵌入式&物联网","本章主要是linux操作系统的io系统编程课程，是嵌入式学习必学课程之一，将由麦子学院嵌入式开发工程师从IO系统的函数、标准及相关操作方面为大家详细介绍，方便初学者快速掌握。","http://www.maiziedu.com/course/506/","http://www.maiziedu.com/uploads/course/2015/07/5.13linux之io系统编程.jpg","end","47520","linux之io系统编程","normal"
+"嵌入式&物联网","Linux字符设备驱动程序是Linux下被组织为一组完成不同任务的函数的集合，通过这些函数使得linux的设备操作犹如文件一般。本章就由麦子学院嵌入式开发名师带领大家一起学习linux字符设备驱动相关知识，赶快开始学习吧。
+","http://www.maiziedu.com/course/38/","http://www.maiziedu.com/uploads/course/2015/07/4.4linux字符设备驱动初探_kpaklhQ.png","end","27308","linux字符设备驱动初探","normal"
+"嵌入式&物联网","在嵌入式开发中，Linux输入子系统是由输入子系统设备驱动层、输入子系统核心层(Input Core)和输入子系统事件处理层(Event Handler)组成。本章我将一起学习input子系统的相关知识，了解Linux输入子系统的核心原理。
+","http://www.maiziedu.com/course/42/","http://www.maiziedu.com/uploads/course/2015/07/4.6linux下输入子系统_IEgCGZf.png","end","13574","linux下输入子系统","vip"
+"嵌入式&物联网","学习嵌入式驱动开发，本章将由麦子学院嵌入式资深讲师，带你一起学习linux下设备驱动相关知识，掌握DM9000驱动相关知识。
+","http://www.maiziedu.com/course/45/","http://www.maiziedu.com/uploads/course/2015/07/5.3linux下网卡设备驱动_lTj2KpF.png","end","16396","linux下网卡设备驱动","normal"
+"嵌入式&物联网","ARM开发板，嵌入式开发常用工具之一，以英国ARM（Advanced RISC Machines）公司的内核芯片作为CPU，同时附加其他外围功能的嵌入式开发板，用以评估内核芯片的功能和研发各科技类企业的产品。本节将由麦子学院高级嵌入式开发工程师带你进入ARM开发板的世界，让你从一点一滴开始熟悉ARM开发版。
+
+","http://www.maiziedu.com/course/82/","http://www.maiziedu.com/uploads/course/2015/07/3.1选修_-_ARM开发板基础知识_BoA6mYW.png","end","20385","选修 - ARM开发板基础知识","normal"
+"嵌入式&物联网","独木不成林，只是理解了ARM的结构，系统还是无法使用，本章我们将学习ARM汇编语言，了解芯片中的一些简单控制器，来看看系统是如何展现给我们的。","http://www.maiziedu.com/course/83/","http://www.maiziedu.com/uploads/course/2015/07/3.2选修_-_ARM汇编语言_dc28YKd.png","end","26708","选修 - ARM汇编语言","normal"
+"嵌入式&物联网","嵌入式开发，软件与硬件的结合，了解完ARM的结构后，我们还需要对ARM硬件的开发进行一些了解，本节将由麦子学院资深嵌入式开发工程师，带你了解芯片中的一些简单控制器，玩转嵌入式ARM开发。
+","http://www.maiziedu.com/course/84/","http://www.maiziedu.com/uploads/course/2015/07/3.3选修_-_ARM硬件开发基础_NNABRNo.png","end","25350","选修 - ARM硬件开发基础","normal"
+"嵌入式&物联网","c语言，物联网开发基础语言，是从事物联网开发人员必须掌握的重要工具，本章c语言语法概述将由麦子学院资深物联网开发工程师王海宁老师为大家讲解C语言所包含的32个关键字，及其在物联网中的应用技巧与规律。
+","http://www.maiziedu.com/course/92/","http://www.maiziedu.com/uploads/course/2015/07/1.1嵌入式C语言高级---语法概述.png","end","30349","嵌入式C语言高级---语法概述","normal"
+"嵌入式&物联网","在物联网开发中，C语言的核心和灵魂就是对内存资源的操作，而在开发中，这个操作的工具就是指针，本章麦子学院物联网资深工程师将带领大家一起来学习掌握C语言及其指针工具的使用。
+
+","http://www.maiziedu.com/course/93/","http://www.maiziedu.com/uploads/course/2015/07/1.2嵌入式C语言高级---内存空间.png","end","20954","嵌入式C语言高级---内存空间","normal"
+"嵌入式&物联网","物联网开发中所运用的C语言其本质是一个函数语言，其编写的每个功能都是一个函数。在物联网开发中，如何运用C语言的函数，是设计大型物联网程序的必要基础。
+","http://www.maiziedu.com/course/94/","http://www.maiziedu.com/uploads/course/2015/07/1.3嵌入式C语言高级---函数空间.png","end","16920","嵌入式C语言高级---函数空间","vip"
+"嵌入式&物联网","物联网之ucos操作系统基础","http://www.maiziedu.com/course/98/","http://www.maiziedu.com/uploads/course/2015/07/ucos操作系统基础.jpg","end","15417","物联网之ucos操作系统基础","normal"
+"嵌入式&物联网","linux基础","http://www.maiziedu.com/course/312/","http://www.maiziedu.com/uploads/course/2015/07/4.4Linux基础.png","end","46419","Linux基础","normal"
+"嵌入式&物联网","本课程针对那些对linux驱动有兴趣或者有需求要从事这一块、但不知道从何入手的开发人员，几乎囊括了linux下的所有类型的驱动，包括platform驱动、usb驱动、pci驱动、framebuffer驱动、网卡驱动等，同时穿插linux内核中的各种机制比如互斥机制、中断机制、睡眠机制等，让接受此课程的人可以直接上手嵌入式开发linux的驱动和移植工作。","http://www.maiziedu.com/course/368/","http://www.maiziedu.com/uploads/course/2015/07/4.5linux驱动策略及框架_ABWdWfG.png","end","20884","linux驱动策略及框架","normal"
+"嵌入式&物联网","Android NDK开发是学习怎样使用C与java共同开发Android应用程的技术，有了NDK技术之后，你就可以开发出只用java不能开发的一些特殊项目，因为java不能，而C可以。同时，你就可以有基础去学习Android中间件的开发，因为中间件中大量使用了NDK技术。","http://www.maiziedu.com/course/372/","http://www.maiziedu.com/uploads/course/2015/07/5.5选修课-NDK初探_UrfkCk6.png","end","14596","选修课-NDK初探","normal"
+"嵌入式&物联网","在Android、IOS风行的年代，在充斥浮躁、追求速成的年代，如果有一门语言值得我们去沉下心来好好研究，那它应该是C++。
+本套视频教程将从实践的角度带你学习C++。在使用中理解C++、理解面向对象思想。
+","http://www.maiziedu.com/course/376/","http://www.maiziedu.com/uploads/course/2015/07/5.9选修课-c概述.png","end","24445","选修课-c++概述","normal"
+"嵌入式&物联网","C++是在C语言的基础上开发的一种通用编程语言，支持面向对象编程、泛型编程和过程化编程等多种编程范式，在嵌入式应用开发中广泛运用。本套C++视频教程将由麦子学院资深嵌入式开发工程师，带你从实践的角度学习c++，让你领略c++编程语言在嵌入式开发中的魅力所在。
+","http://www.maiziedu.com/course/379/","http://www.maiziedu.com/uploads/course/2015/07/5.8C面向对象编程.png","end","47327","C++面向对象编程","normal"
+"php web开发","php语言高阶。","http://www.maiziedu.com/course/787/","http://www.maiziedu.com/uploads/course/2016/07/1_XCFebsq.png","end","10090","WEB在线文件管理器","normal"
+"php web开发","php语言高阶。","http://www.maiziedu.com/course/788/","http://www.maiziedu.com/uploads/course/2016/05/wj.jpg","end","7049","文件目录函数库","normal"
+"php web开发","Thinkphp作为开源的PHP框架发展到今天，无疑是国内最适合PHP学员学习和使用的框架，除了简单容易上手，更大的优点是开发文档完善、插件丰富。满足作为开发大中型网站框架的条件，此课程将以开发一个中型商城为例，带着大家学习Thinkphp的核心技术。","http://www.maiziedu.com/course/797/","http://www.maiziedu.com/uploads/course/2016/07/1_lKGTkVs.png","on","72326","Thinkphp5商城项目实战第一季","normal"
+"php web开发","php高阶内容","http://www.maiziedu.com/course/805/","http://www.maiziedu.com/uploads/course/2016/05/curl_.png","end","8953","curl","normal"
+"php web开发","php高阶内容","http://www.maiziedu.com/course/806/","http://www.maiziedu.com/uploads/course/2016/07/1_fusTtTL.png","end","15850","正则表达式","normal"
+"php web开发","  百度地图JavaScript API是一套由JavaScript语言编写的应用程序接口，它能够帮助您在网站中构建功能丰富、交互性强的地图应用,包含了构建地图基本功能的各种接口，提供了诸如本地搜索、路线规划等数据服务。","http://www.maiziedu.com/course/807/","http://www.maiziedu.com/uploads/course/2016/07/1_K4xjvL7.png","end","18071","百度地图接口开发","normal"
+"php web开发"," Yii 是一个高性能的，适用于开发 WEB2.0 应用的 PHP 框架。本课程针对想使用Yii框架的php爱好者提供快速的入门章节，让你的赢在起跑线上。","http://www.maiziedu.com/course/872/","http://www.maiziedu.com/uploads/course/2016/08/dnzj.png","end","9323","带你走进YII框架","normal"
+"php web开发","本课程集成了 linux基础、shell基础、nosql 基础、cdn、oss 云解析等相关技术，在一个架构的角度，对项目进行了分析！重点展示了设计思路。","http://www.maiziedu.com/course/877/","http://www.maiziedu.com/uploads/course/2016/08/1_MgpRFxY.png","on","13640","千万级php电商秒杀项目实战","normal"
+"php web开发","在大数据的时代，在互联网盛行的今天，PHP在WEB,游戏服务器开发上占据着不可动摇的地位，并还在猛速发展。PHP人才是一个大缺口。本套视频教程将从PHP生产环境LNMP（Linux+Nginx+Mysql+PHP）带给大家常用的优化配置方案及使用LVS来解决高并发下的负载均衡。","http://www.maiziedu.com/course/625/","http://www.maiziedu.com/uploads/course/2015/11/深入浅出LNMP生产环境优化及LVS集群.jpg","on","19886","深入浅出LNMP生产环境优化及LVS集群","normal"
+"php web开发","大型网站运营过程中面临的几个重要问题是大访问，高并发，如何去应对高负载，如果实现多数据服务器数据同步保证系统及数据安全稳定可靠运行。本课程将介绍如何利用缓存优化，数据库优化以及页面静态化等技术来提高系统性能。","http://www.maiziedu.com/course/650/","http://www.maiziedu.com/uploads/course/2016/04/dxwzxmyh.jpg","end","32783","大型网站项目优化 ","normal"
+"php web开发","微信至今已有8亿活跃用户，微信营销是这两年最火热的WEB开发应用，每一家企业必不可少的都需要进行微信公众号开发，学会微信开发，可以自己接外包项目，为企业开发微官网，微商城，微分销，微信游戏，走上致富之路。","http://www.maiziedu.com/course/677/","http://www.maiziedu.com/uploads/course/2016/04/PHPwxjk.jpg","on","36664","PHP微信接口开发之高级篇","normal"
+"php web开发","织梦CMS是集简单、健壮、灵活、开源几大特点的开源内容管理系统,是国内开源CMS的领先品牌，目前程序安装量已达七十万,超过六成的站点正在使用织梦CMS或基于织梦CMS核心开发.此套课程就是让你从零开始，使用 dedecms 建立一个属于自己的信息网站。","http://www.maiziedu.com/course/690/","http://www.maiziedu.com/uploads/course/2016/04/dedecms.jpg","end","14514","dedecms仿站实战教程","normal"
+"php web开发","主要是介绍一下几点：
+1.介绍一下全文索引以及sphinx索引的一些基本概念，让大家有一个初步的概念
+2.介绍一下sphinx的安装和测试以及在此基础上的中文分词Coreseek的安装和测试
+3.介绍一下使用php去连接sphinx的一些API","http://www.maiziedu.com/course/706/","http://www.maiziedu.com/uploads/course/2016/04/Sphinx.jpg","end","11776","玩转Sphinx搜索引擎","normal"
+"php web开发","主要是介绍一下我们工作中实际环境的搭建方法，主要包括源码安装和使用yum安装Centos以及lamp，lnmp环境。","http://www.maiziedu.com/course/732/","http://www.maiziedu.com/uploads/course/2016/04/phpfwqkz.jpg","end","9054","php服务器扩展","normal"
+"php web开发","PHP 作为当前进行Web快速开发的脚本语言近年来受到和众多开发者和互联网从业人员的青睐. 她兼备跨平台运行, 免费, 高效,低开发/学习成本和周边良好学习氛围. 这门课程主要让你在入门的时候不再有门槛限制, 在各个平台都能够轻松的搭建各种方式的运行平台, 快速的进行学习和开发。","http://www.maiziedu.com/course/733/","http://www.maiziedu.com/uploads/course/2016/04/WAMPLAMP.jpg","end","11366","PHP运行环境搭建(WAMP + LAMP)","vip"
+"php web开发","本课程适用对象：有一定开发经验的技术人员；爱好微博开发的人员。通过本课，能学会微博的auth认证，学会使用的主要接口。","http://www.maiziedu.com/course/746/","http://www.maiziedu.com/uploads/course/2016/04/phpwb.png","end","9507","php-微博接口开发","normal"
+"php web开发","PHP 面向对象基础","http://www.maiziedu.com/course/759/","http://www.maiziedu.com/uploads/course/2016/07/phpmxdx_ypcd22R.png","end","23203","PHP 面向对象基础","normal"
+"php web开发","主要是跟大家介绍一下PHP底层的运行机制，比如变量，常量，对象以及函数运行过程的一些底层实现。","http://www.maiziedu.com/course/760/","http://www.maiziedu.com/uploads/course/2016/04/phpdcyxjz.png","end","9601","Php底层运行机制","normal"
+"php web开发","讲解支付宝即时到帐接口开发，学习支付宝接口及时到账开发和配置，了解在线支付接口的原理和流程，帮助开发者快速开发。","http://www.maiziedu.com/course/766/","http://www.maiziedu.com/uploads/course/2016/04/zfbjkkf.jpg","end","15714","支付宝即时到账接口开发","normal"
+"php web开发","Git是一个分布式的版本控制系统， 起初用作Linux内核代码的管理,而现在在其他项目中也取得了很大的成功.。Github作为git库最大的托管平台， 拥有百万的开发者,，海量的开源代码,，是大家学习和工作很好的平台,，所以不管学习什么语言,，掌握Git相关的知识是开发者必备的技能。","http://www.maiziedu.com/course/782/","http://www.maiziedu.com/uploads/course/2016/05/git_hub.png","on","30160","Git 与 GitHub","vip"
+"php web开发","通过对PHPCMS的学习，最终能够熟练的使用PHPCMS，并且能够在此基础上进行定制二次开发，最终达到自己的需求","http://www.maiziedu.com/course/784/","http://www.maiziedu.com/uploads/course/2016/05/PHPCMS.png","end","16309","PHPCMS的使用以及二次开发","normal"
+"php web开发","php语言高阶。","http://www.maiziedu.com/course/785/","http://www.maiziedu.com/uploads/course/2016/05/hhkz.png","end","10007","会话控制","normal"
+"php web开发","php语言高阶。","http://www.maiziedu.com/course/786/","http://www.maiziedu.com/uploads/course/2016/05/GD.png","end","7267","GD库","normal"
+"php web开发","一般中小型网站的开发都选择 MySQL 作为网站数据库。由于其社区版的性能卓越，搭配 PHP 和 Apache 可组成良好的开发环境。随着mysql的功能不断完善，性能不断提高，可靠性不断增强，在mysql实际开发中，我们可能会面临这样的问题：如何选择它的存储引擎，如何来诊断和优化mysql的查询，mysql的锁有什么机制，如何减少锁冲突，提高并发度。然而mysql的参考文档很精练，也很零碎，面对浩如烟海的网页来找出有用的信息解决上面所提到的问题也绝非易事，为了能让大家对mysql的开发和管理了解得更深，有利于后期的php开发维护等工作的开展，将平时项目开发中所积累的mysql的开发和管理的经验，解决问题的方法和思路，以及对mysql的认识整理出来，做成这套教程与大家分享。
+","http://www.maiziedu.com/course/335/","http://www.maiziedu.com/uploads/course/2015/07/3.2Mysql进阶.jpg","end","52313","Mysql进阶","vip"
+"php web开发","以一个完整的实例（多用户留言系统）详细剖析ThinkPHP框架的开发流程，引导学员从实际问题中学习枯燥的语法；期望学员通过该实例能够熟练掌握ThinkPHP的使用，能够使用ThinkPHP进行中小型应用的开发。","http://www.maiziedu.com/course/336/","http://www.maiziedu.com/uploads/course/2015/08/ThinkPHP框架开发_-_多用户留言系统的设计与实现.png","end","68741","ThinkPHP框架开发 - 多用户留言系统的设计与实现","vip"
+"php web开发"," Redis是一个key-value存储系统，是php开发中重要技术之一，本章将由麦子学院资深php开发工程师为你讲解 Redis的安装、配置、命令等相关内容，让你轻松入门 Redis。","http://www.maiziedu.com/course/337/","http://www.maiziedu.com/uploads/course/2015/07/4.5Redis入门.png","end","20387","Redis入门","vip"
+"php web开发","这是一门利用discuz开源框架快速搭建网站的课程，让你短时间内学习快速搭建网站的方法。项目案例的制作会让你的知识进一步巩固和升华，在掌握一些网页基础和php基础的同时，为你技术的提升添砖加瓦。","http://www.maiziedu.com/course/339/","http://www.maiziedu.com/uploads/course/2015/07/4.5基于discuz快速建站全程讲解-.jpg","end","19732","基于discuz快速建站全程讲解","normal"
+"php web开发","FineBI是帆软软件有限公司推出的一款商业智能产品，针对企业信息化遇到的困难，为企业提供专业的商业智能解决方案，模拟预测企业未来发展，协助企业及时调整策略做出更好的决策。FineBI商业智能分析课程主要分为14个课时，以销售分析为例，讲解并演示了一个完整的商业智能分析流程。旨在帮助企业数据分析人员快速学会使用FineBI，支持管理决策。","http://www.maiziedu.com/course/343/","http://www.maiziedu.com/uploads/course/2015/07/FineBI商业智能分析更新中.png","on","5223","FineBI商业智能分析","normal"
+"php web开发","本课程的学员会学习怎么用PHP和MySQL去做一个待办事项目列表《To－Do List》，美国大牛老师教你怎么用php管理数据库连接，如何查询、修改、删除以及如何写安全的预处理语句，还等什么，快来一起学习吧。","http://www.maiziedu.com/course/371/","http://www.maiziedu.com/uploads/course/2015/07/2.5PHP和MySQL函数库的使用.jpg","end","27750","PHP和MySQL函数库的使用","vip"
+"php web开发","Mongodb是目前在IT行业非常流行的一种非关系型数据库(NoSql)，其灵活的数据存储方式，备受当前IT从业人员的青睐。本课由硅谷老师针对mongodb的应用来进行讲解。","http://www.maiziedu.com/course/395/","http://www.maiziedu.com/uploads/course/2015/03/mongodb最佳实践.jpg","end","42296","Mongodb最佳实践","vip"
+"php web开发","如何从零基础开始，不断动手实际操作，循序渐进中掌握Hadoop，直到能够直接进行企业级开始，是困惑很多对云计算感兴趣的朋友的核心问题，本课程正是为解决此问题而生，学习者只需要按照视频一步步的看并跟着视频动手操作，即可完全无痛掌握Hadoop企业级开发，不需要进行任何额外的学习。
+同时本课程会对Hadoop的核心源码进行剖析，使学习者具备一定的修改Hadoop框架的能力，从而能够根据实际的业务情况来打造自己的框架。","http://www.maiziedu.com/course/396/","http://www.maiziedu.com/uploads/course/2015/03/hadoop.jpg","on","8567","Hadoop从零基础到直接工作课程","normal"
+"php web开发","麦子学院原创yii项目开发视频教程，是学习PHP 开发必学经典框架教程，通过全新的yii实战，让你全面掌握yii基础应用开发及高级开发相关知识。","http://www.maiziedu.com/course/483/","http://www.maiziedu.com/uploads/course/2015/07/4.3yii项目开发企业站点.jpg","end","21859","yii项目：开发企业站点","normal"
+"php web开发","Laravel：地球上最好用的PHP框架 - 入门篇","http://www.maiziedu.com/course/491/","http://www.maiziedu.com/uploads/course/2015/07/4.4地球上最好用的PHP框架.jpg","end","69571","Laravel：地球上最好用的PHP框架 - 入门篇","normal"
+"php web开发","这是一门关于使用PHP画图的课程，目标是能够使用PHP的GD扩展库进行画图，并且能够在项目中灵活的使用。","http://www.maiziedu.com/course/558/","http://www.maiziedu.com/uploads/course/2015/09/PHP画图.jpg","on","12161","PHP画图","normal"
+"php web开发","本课程主要讲解web应用安全知识，目标是让学员了解web应用方面的安全问题。未知攻焉知防，本课程将从“黑客”攻击角度来讲解如何防御，以保障数据信息安全。","http://www.maiziedu.com/course/559/","http://www.maiziedu.com/uploads/course/2015/09/Web应用安全.jpg","end","12709","Web应用安全 ","normal"
+"php web开发","javascript 进阶","http://www.maiziedu.com/course/582/","http://www.maiziedu.com/uploads/course/2015/10/javascript进阶_wBh05Gh.jpg","end","29181","Javascript 进阶","normal"
+"php web开发","本课程主要讲解了Microsoft SQL Server 2014基础知识，适于用数据库初级人员进行学习。
+在当前电子商务高速发展的时代，学习好数据库，将有助于你在电商、软件开发行业打好基础，站稳脚跟！","http://www.maiziedu.com/course/614/","http://www.maiziedu.com/uploads/course/2016/04/MicorSoft-SQL-Server_vc5PQLQ.jpg","on","47899","Microsoft SQL Server 2014数据库基础知识","normal"
+"php web开发","微信至今已有8亿活跃用户，微信营销是这两年最火热的WEB开发应用，每一家企业必不可少的都需要进行微信公众号开发，学会微信开发，可以自己接外包项目，为企业开发微官网，微商城，微分销，微信游戏，走上致富之路。","http://www.maiziedu.com/course/624/","http://www.maiziedu.com/uploads/course/2015/11/PHP微信接口开发之基础篇_Xv77IRC.jpg","end","67636","PHP微信接口开发之基础篇","normal"
