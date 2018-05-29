@@ -13,3 +13,4 @@ class MaiziItem(scrapy.Item):
     desc = scrapy.Field()
     students = scrapy.Field()
     detailUrl = scrapy.Field()
+    course = scrapy.Field()
